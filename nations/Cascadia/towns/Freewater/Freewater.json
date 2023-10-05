@@ -1,0 +1,102 @@
+{
+    "outlaws": [
+        "Phantrom",
+        "OmeiBey",
+        "Karrw",
+        "PeterPeter5000",
+        "Straw_inturtles",
+        "21eea",
+        "Jayden7566",
+        "uhtred_of_bb",
+        "Frede",
+        "SuperiorGItch",
+        "Judebricks"
+    ],
+    "spawn": {
+        "x": -21911.96933733855,
+        "y": 94,
+        "z": -8600.125833495422
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [
+            "Luciiiuwu"
+        ],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "ff8c00",
+        "town": "Freewater",
+        "mayor": "Luciiiuwu",
+        "founder": "Luciiiuwu",
+        "board": "Glory to Cascadia!"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 105
+    },
+    "trusted": [
+        "TylenolEC"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1686281920971,
+        "registered": 1666670276800
+    },
+    "residents": [
+        "Luciiiuwu"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": true
+    },
+    "home": {
+        "x": -1370,
+        "z": -538
+    }
+}

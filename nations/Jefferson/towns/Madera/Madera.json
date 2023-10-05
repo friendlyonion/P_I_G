@@ -1,0 +1,101 @@
+{
+    "strings": {
+        "town": "Madera",
+        "board": "Lets build a stronger town together. From lending a helping hand to supporting local businesses lets work to create a town we are all proud of",
+        "mayor": "ProGamerX32133",
+        "founder": "Psllonllc",
+        "mapColorHexCode": "556b2f"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1681820295132,
+        "joinedNationAt": 1681820314081
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 38,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 16.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22424.009876981854,
+        "y": 92.0,
+        "z": -7113.920361022841
+    },
+    "home": {
+        "x": -1402,
+        "z": -445
+    },
+    "residents": [
+        "ProGamerX32133"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "SkittlesFairy",
+        "x________",
+        "Jaggerist_King",
+        "Falserose"
+    ],
+    "outlaws": [
+        "Keremiko10",
+        "zuives",
+        "nixps",
+        "hapycb",
+        "Kloton",
+        "keeita",
+        "Alemakko",
+        "xSkrubChris",
+        "Batu8747"
+    ]
+}

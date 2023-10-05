@@ -1,0 +1,86 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -24362.350605422573,
+        "y": 63,
+        "z": -10106.526255056955
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "ff00ff",
+        "town": "Slayhaven",
+        "mayor": "Sonyarka",
+        "founder": "OMG_Slayqueen",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 27
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1679511445008,
+        "registered": 1679511435697
+    },
+    "residents": [
+        "Sonyarka"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1523,
+        "z": -632
+    }
+}

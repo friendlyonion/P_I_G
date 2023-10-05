@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Hakai_Lodge",
+        "board": "Have a Great Day",
+        "mayor": "JustDriveTrucks",
+        "founder": "JustDriveTrucks",
+        "mapColorHexCode": "9932cc"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1683855497140,
+        "joinedNationAt": 1689281131276
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 96,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 91.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -24423.74562032943,
+        "y": 64.0,
+        "z": -9739.743910399735
+    },
+    "home": {
+        "x": -1527,
+        "z": -609
+    },
+    "residents": [
+        "JustDriveTrucks"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "SoldierMind02",
+        "JustDriveTrucks"
+    ],
+    "outlaws": [
+        "aMopu",
+        "basedSkeleton"
+    ]
+}

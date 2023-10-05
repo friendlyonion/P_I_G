@@ -1,0 +1,86 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -23411.50934959902,
+        "y": 70,
+        "z": -8530.23314194974
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "9400d3",
+        "town": "Regan",
+        "mayor": "akirarocks",
+        "founder": "akirarocks",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 244,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 17
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1689962939279,
+        "registered": 1689962931701
+    },
+    "residents": [
+        "akirarocks"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1464,
+        "z": -534
+    }
+}

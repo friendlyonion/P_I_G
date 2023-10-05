@@ -1,0 +1,86 @@
+{
+    "strings": {
+        "town": "Sagebrush",
+        "board": "/town set board [msg]",
+        "mayor": "Octicity",
+        "founder": "Octicity",
+        "mapColorHexCode": "c0c0c0"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1687210665361,
+        "joinedNationAt": 1687210670819
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 1,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22615.99155992376,
+        "y": 99.0,
+        "z": -7864.327945972805
+    },
+    "home": {
+        "x": -1414,
+        "z": -492
+    },
+    "residents": [
+        "Octicity"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

@@ -1,0 +1,101 @@
+{
+    "strings": {
+        "town": "Mazama",
+        "board": "Home of the Great North Vikings, southern town of Prince George. Enjoy your ice skating activities here!",
+        "mayor": "Voidus_X",
+        "founder": "Voidus_X",
+        "mapColorHexCode": "0000ff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1680577039761,
+        "joinedNationAt": 1680577168438
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 57,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 140.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22919.589038086207,
+        "y": 92.0,
+        "z": -9719.57339428654
+    },
+    "home": {
+        "x": -1433,
+        "z": -608
+    },
+    "residents": [
+        "Voidus_X",
+        "_AriZz_",
+        "LilSorrows41",
+        "Dompier",
+        "Lotspire"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "DaCorgoKing",
+        "RealLIMPOPO"
+    ],
+    "outlaws": [
+        "Mopugose12",
+        "not_ewhy",
+        "Moxies_hoe",
+        "5set",
+        "DoggoMc",
+        "Cabbstiny",
+        "ucne"
+    ]
+}

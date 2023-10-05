@@ -1,0 +1,98 @@
+{
+    "strings": {
+        "town": "Stockton",
+        "board": "...",
+        "mayor": "RedFox252",
+        "founder": "RedFox252",
+        "mapColorHexCode": "ffa500"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1689679824309,
+        "joinedNationAt": 1689679839130
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 51,
+        "maxTownBlocks": 128,
+        "numResidents": 6,
+        "balance": 49.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22557.680467617985,
+        "y": 65.0,
+        "z": -7201.490126741729
+    },
+    "home": {
+        "x": -1410,
+        "z": -451
+    },
+    "residents": [
+        "RedFox252",
+        "Cloudydiff",
+        "Trident19",
+        "RailEngine",
+        "bekiffterZweig",
+        "General_Taco2"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "RailEngine"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "42Forest",
+        "Kombolizmo"
+    ],
+    "outlaws": [
+        "ImpaledCupid"
+    ]
+}

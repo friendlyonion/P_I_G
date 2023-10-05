@@ -1,0 +1,94 @@
+{
+    "strings": {
+        "town": "Azure_Bay",
+        "board": "Where Dreams Come To Life",
+        "mayor": "NotMakarov",
+        "founder": "NotMakarov",
+        "mapColorHexCode": "a52a2a"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1682950639143,
+        "joinedNationAt": 1690661929749
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 122,
+        "maxTownBlocks": 108,
+        "numResidents": 6,
+        "balance": 39.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22734.107038108938,
+        "y": 63.0,
+        "z": -6928.45251229489
+    },
+    "home": {
+        "x": -1421,
+        "z": -434
+    },
+    "residents": [
+        "NotMakarov",
+        "Zaref4",
+        "Akioslays",
+        "Ace_Meance",
+        "Pabloman420",
+        "minecraftgye"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Zaref4",
+        "42Forest"
+    ],
+    "outlaws": []
+}

@@ -1,0 +1,105 @@
+{
+    "strings": {
+        "town": "Baroque_Works",
+        "board": "Mr. Sandman, bring me a dream.",
+        "mayor": "Flatvent_One",
+        "founder": "KillerVortexian",
+        "mapColorHexCode": "f5f5dc"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1682667541499,
+        "joinedNationAt": 1692247210552
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 44,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 235.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23468.971074808527,
+        "y": 94.0,
+        "z": -9898.439566060008
+    },
+    "home": {
+        "x": -1467,
+        "z": -619
+    },
+    "residents": [
+        "chubbiloo",
+        "Amke071",
+        "Miko_trance1",
+        "IronChad06",
+        "Flatvent_One"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Flatvent_One",
+        "Keete_",
+        "Alucart",
+        "Nephi_UwU_oWo",
+        "TheNetherWitch",
+        "Aurivia",
+        "UhhRose",
+        "KARN4"
+    ],
+    "outlaws": [
+        "Mistyoff",
+        "kasana2009",
+        "PatchieQc",
+        "UltraNaggi",
+        "Superior_Days93"
+    ]
+}

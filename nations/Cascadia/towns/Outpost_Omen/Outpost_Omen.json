@@ -1,0 +1,94 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -20818.545911785386,
+        "y": 89,
+        "z": -9158.51488406356
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "00ffff",
+        "town": "Outpost_Omen",
+        "mayor": "RealLIMPOPO",
+        "founder": "Moxies_hoe",
+        "board": "Liberty chasers"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 100
+    },
+    "trusted": [
+        "KrackKocaine",
+        "Akeboun",
+        "Beamz30",
+        "3llies",
+        "RealLIMPOPO",
+        "WrestlingWithGod",
+        "moggs"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1678597233761,
+        "registered": 1678597174779
+    },
+    "residents": [
+        "RealLIMPOPO"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": true
+    },
+    "home": {
+        "x": -1302,
+        "z": -573
+    }
+}

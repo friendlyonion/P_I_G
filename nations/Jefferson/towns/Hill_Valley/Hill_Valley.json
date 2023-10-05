@@ -1,0 +1,87 @@
+{
+    "strings": {
+        "town": "Hill_Valley",
+        "board": "/town set board [msg]",
+        "mayor": "Wallguardian",
+        "founder": "Wallguardian",
+        "mapColorHexCode": "a52a2a"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1685928501663,
+        "joinedNationAt": 1688493647298
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 62,
+        "maxTownBlocks": 76,
+        "numResidents": 2,
+        "balance": 182.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23034.999996895636,
+        "y": 68.0,
+        "z": -7400.003042567019
+    },
+    "home": {
+        "x": -1440,
+        "z": -463
+    },
+    "residents": [
+        "Wallguardian",
+        "Clutch7810"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

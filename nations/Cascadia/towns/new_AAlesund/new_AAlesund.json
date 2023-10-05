@@ -1,0 +1,86 @@
+{
+    "strings": {
+        "town": "new_AAlesund",
+        "board": "right city, wrong place",
+        "mayor": "dwarfsmallman",
+        "founder": "dwarfsmallman",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1686494322024,
+        "joinedNationAt": 1686494434933
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 10,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21588.41820765699,
+        "y": 114.0,
+        "z": -8568.658527699523
+    },
+    "home": {
+        "x": -1350,
+        "z": -536
+    },
+    "residents": [
+        "dwarfsmallman"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

@@ -1,0 +1,88 @@
+{
+    "outlaws": [
+        "kosticc"
+    ],
+    "spawn": {
+        "x": -21959.849376717215,
+        "y": 80,
+        "z": -10524.490910501405
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "ffc0cb",
+        "town": "Shiningbank",
+        "mayor": "Fenrir2303",
+        "founder": "Fenrir2303",
+        "board": "Just a random shithole"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 6
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1682816622385,
+        "registered": 1681945698720
+    },
+    "residents": [
+        "Fenrir2303"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": false,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1373,
+        "z": -658
+    }
+}

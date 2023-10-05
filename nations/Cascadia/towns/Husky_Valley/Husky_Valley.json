@@ -1,0 +1,97 @@
+{
+    "strings": {
+        "town": "Husky_Valley",
+        "board": "Doggo",
+        "mayor": "RuffWoof",
+        "founder": "RuffWoof",
+        "mapColorHexCode": "8b008b"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1692627598487,
+        "joinedNationAt": 1692627696908
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 13,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23704.914788769893,
+        "y": 88.0,
+        "z": -9832.014820440618
+    },
+    "home": {
+        "x": -1482,
+        "z": -615
+    },
+    "residents": [
+        "RuffWoof",
+        "Wallfam5Master",
+        "A_apple_king"
+    ],
+    "ranks": {
+        "Councillor": [
+            "RuffWoof",
+            "Wallfam5Master"
+        ],
+        "Builder": [
+            "Wallfam5Master"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "Volta_Show",
+        "BillowySplash5",
+        "8set"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "strings": {
+        "town": "Vernon",
+        "board": "Splendor Sine Occasu",
+        "mayor": "chumpcharlie",
+        "founder": "RandovMan",
+        "mapColorHexCode": "ffffe0"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1681690716593,
+        "joinedNationAt": 1692416126329
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 45,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22158.335610075384,
+        "y": 92.0,
+        "z": -9315.769791767585
+    },
+    "home": {
+        "x": -1385,
+        "z": -583
+    },
+    "residents": [
+        "chumpcharlie"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Flatvent_One",
+        "Nephi_UwU_oWo",
+        "KARN4"
+    ],
+    "outlaws": []
+}

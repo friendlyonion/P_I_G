@@ -1,0 +1,86 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -21911.558576067775,
+        "y": 69,
+        "z": -6297.571485033705
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "00008b",
+        "town": "Irvine",
+        "mayor": "AfroOrbz",
+        "founder": "AfroOrbz",
+        "board": "Still Under Construction"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 11
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1666115620011,
+        "registered": 1665351782193
+    },
+    "residents": [
+        "AfroOrbz"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            }
+        },
+        "flagPerms": {
+            "mobs": true,
+            "explosion": false,
+            "fire": true,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1370,
+        "z": -394
+    }
+}

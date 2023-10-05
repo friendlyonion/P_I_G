@@ -1,0 +1,94 @@
+{
+    "strings": {
+        "town": "Isolation",
+        "board": "Liberty chasers",
+        "mayor": "BubberNutz",
+        "founder": "Moxies_hoe",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1678597174779,
+        "joinedNationAt": 1692055895394
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 100,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20818.545911785386,
+        "y": 89.0,
+        "z": -9158.51488406356
+    },
+    "home": {
+        "x": -1302,
+        "z": -573
+    },
+    "residents": [
+        "BubberNutz"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Akeboun",
+        "RealLIMPOPO",
+        "Beamz30",
+        "WrestlingWithGod",
+        "KrackKocaine",
+        "moggs",
+        "3llies"
+    ],
+    "outlaws": []
+}

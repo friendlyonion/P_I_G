@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Fox",
+        "board": "UwU",
+        "mayor": "Lumiowo",
+        "founder": "Lumiowo",
+        "mapColorHexCode": "add8e6"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1652494490779,
+        "joinedNationAt": 1686596986698
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 232,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 384.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": true
+        }
+    },
+    "spawn": {
+        "x": -24928.16843294006,
+        "y": 65.0,
+        "z": -10663.129961598972
+    },
+    "home": {
+        "x": -1559,
+        "z": -667
+    },
+    "residents": [
+        "Lumiowo",
+        "charleycheno",
+        "MILE_proto",
+        "Dhairyash",
+        "HeHeIamATree"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "charleycheno"
+    ],
+    "outlaws": []
+}

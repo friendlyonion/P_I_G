@@ -1,0 +1,86 @@
+{
+    "strings": {
+        "town": "Boss_Kingdom",
+        "board": "/town set board [msg]",
+        "mayor": "109487boss",
+        "founder": "109487boss",
+        "mapColorHexCode": "9932cc"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1689816282358,
+        "joinedNationAt": 1690318186239
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 8,
+        "maxTownBlocks": 18,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -13804.64350794675,
+        "y": 65.0,
+        "z": -12343.53490852433
+    },
+    "home": {
+        "x": -863,
+        "z": -772
+    },
+    "residents": [
+        "109487boss"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

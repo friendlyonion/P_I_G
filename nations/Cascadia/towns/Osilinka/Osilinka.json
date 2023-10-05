@@ -1,0 +1,88 @@
+{
+    "outlaws": [
+        "Moxies_hoe"
+    ],
+    "spawn": {
+        "x": -23110.500231161655,
+        "y": 83,
+        "z": -10440.832325895719
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "e0ffff",
+        "town": "Osilinka",
+        "mayor": "Sylxgravt",
+        "founder": "Sylxgravt",
+        "board": "Ako treba Gospode, evo primi zavjet moj"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 35
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1669617318471,
+        "registered": 1653154627444
+    },
+    "residents": [
+        "Sylxgravt"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": true,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1445,
+        "z": -653
+    }
+}

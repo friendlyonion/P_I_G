@@ -1,0 +1,110 @@
+{
+    "strings": {
+        "town": "ThneedVille",
+        "board": "/town set board [msg]",
+        "mayor": "TreeAteABird",
+        "founder": "EnglishApache",
+        "mapColorHexCode": "800080"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1685343394161,
+        "joinedNationAt": 1688158702858
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 54,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 782.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22548.91677186193,
+        "y": 90.0,
+        "z": -8280.318368537153
+    },
+    "home": {
+        "x": -1410,
+        "z": -518
+    },
+    "residents": [
+        "TreeAteABird",
+        "meredithstyles",
+        "Jacobzx",
+        "L1ghtwolfx",
+        "Superior_Days93"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "meredithstyles"
+        ]
+    },
+    "trusted": [
+        "DaCorgoKing",
+        "meredithstyles",
+        "TreeAteABird",
+        "Kwemony",
+        "Beamz30",
+        "TheFunnyMonkey",
+        "WrestlingWithGod",
+        "Hersheylr",
+        "KrackKocaine",
+        "Cosmic_Space_158"
+    ],
+    "outlaws": [
+        "kosticc",
+        "FierceDrago_",
+        "32Breach",
+        "aMopu",
+        "_sadpoo",
+        "Vortex420"
+    ]
+}

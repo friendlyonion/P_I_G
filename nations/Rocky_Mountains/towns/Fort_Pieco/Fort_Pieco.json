@@ -1,0 +1,97 @@
+{
+    "strings": {
+        "town": "Fort_Pieco",
+        "board": "/town set board [msg]",
+        "mayor": "FrostyKnight12",
+        "founder": "cascadiankiller",
+        "mapColorHexCode": "ffa500"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1682314740090,
+        "joinedNationAt": 1687057308494
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 22,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23287.274666803856,
+        "y": 71.0,
+        "z": -10216.928663117931
+    },
+    "home": {
+        "x": -1456,
+        "z": -639
+    },
+    "residents": [
+        "FrostyKnight12"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "InceptionKeeper",
+        "OnlyPico",
+        "cowilo",
+        "WeGettingMula",
+        "Superior_Days93",
+        "8set",
+        "SirGriff1",
+        "BillowySplash5"
+    ],
+    "outlaws": [
+        "Gautomy4375"
+    ]
+}

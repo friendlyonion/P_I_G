@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Good_Town",
+        "board": "/town set board [msg]",
+        "mayor": "Hunter_Peterson",
+        "founder": "Hunter_Peterson",
+        "mapColorHexCode": "ff00ff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1692499974967,
+        "joinedNationAt": 1692582800245
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 4,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22804.536579022628,
+        "y": 84.5,
+        "z": -8294.057566154881
+    },
+    "home": {
+        "x": -1426,
+        "z": -519
+    },
+    "residents": [
+        "Hunter_Peterson",
+        "HARU7837",
+        "Aymistaftw",
+        "kodexkillah"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

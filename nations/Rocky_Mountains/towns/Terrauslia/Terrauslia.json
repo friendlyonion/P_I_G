@@ -1,0 +1,108 @@
+{
+    "strings": {
+        "town": "Terrauslia",
+        "board": "Goofy ahh poggers town",
+        "mayor": "KillerVortex1",
+        "founder": "KillerVortexian",
+        "mapColorHexCode": "f5f5dc"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1682667541499,
+        "joinedNationAt": 1682667561342
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 43,
+        "maxTownBlocks": 176,
+        "numResidents": 12,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23447.616231287764,
+        "y": 94.0,
+        "z": -9876.300000011921
+    },
+    "home": {
+        "x": -1466,
+        "z": -618
+    },
+    "residents": [
+        "Crazyjon101",
+        "miliua",
+        "heres_a_cookie",
+        "Helios5D",
+        "ultimatejedii_2",
+        "BloodNight77",
+        "lace2077",
+        "chubbiloo",
+        "Amke071",
+        "KillerVortex1",
+        "Miko_trance1",
+        "IronChad06"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Crazyjon101"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "KillerVortex1",
+        "BillowySplash5",
+        "FadedCookie"
+    ],
+    "outlaws": [
+        "Mistyoff",
+        "kasana2009",
+        "PatchieQc",
+        "93213"
+    ]
+}

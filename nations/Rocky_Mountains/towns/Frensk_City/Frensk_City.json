@@ -1,0 +1,102 @@
+{
+    "strings": {
+        "town": "Frensk_City",
+        "board": "The Best Town On Frensk lake!",
+        "mayor": "FierceDrago_",
+        "founder": "Dragonlilskib",
+        "mapColorHexCode": "d3d3d3"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1686930724457,
+        "joinedNationAt": 1686930918307
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 28,
+        "maxTownBlocks": 92,
+        "numResidents": 4,
+        "balance": 1.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21496.007214588197,
+        "y": 86.0,
+        "z": -10343.982774943712
+    },
+    "home": {
+        "x": -1344,
+        "z": -647
+    },
+    "residents": [
+        "FierceDrago_",
+        "AwesomePoseidon",
+        "CinqrBey_TR",
+        "Rosmans4help"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [
+            "FierceDrago_"
+        ],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "FierceDrago_"
+        ]
+    },
+    "trusted": [
+        "_WeirdGuy",
+        "FrostyKnight12",
+        "SillyDuggo",
+        "toadness_",
+        "Superior_Days93",
+        "RealLIMPOPO",
+        "BillowySplash5",
+        "Eazy__Z"
+    ],
+    "outlaws": []
+}

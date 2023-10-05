@@ -1,0 +1,107 @@
+{
+    "strings": {
+        "town": "Phoenix_Point",
+        "board": "/town set board [msg]",
+        "mayor": "CorroZee",
+        "founder": "just_hunts",
+        "mapColorHexCode": "000080"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1690007300564,
+        "joinedNationAt": 1692466490192
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 28,
+        "maxTownBlocks": 164,
+        "numResidents": 13,
+        "balance": 7.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -13553.764037907644,
+        "y": 63.0,
+        "z": -9163.584629873083
+    },
+    "home": {
+        "x": -848,
+        "z": -573
+    },
+    "residents": [
+        "TyWheel",
+        "Chompers777",
+        "FletcherW001",
+        "mrninja1",
+        "WaxyPrawn342290",
+        "NeoDuckk",
+        "MissWhiskeyy",
+        "Da_quiet_kid",
+        "beppboop",
+        "ekkadan",
+        "DuckXD5",
+        "CorroZee",
+        "L0stInAbyss"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "WaxyPrawn342290",
+            "NeoDuckk",
+            "DuckXD5"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "TylenolEC"
+    ],
+    "outlaws": [
+        "kasana20O6",
+        "Veyronity"
+    ]
+}

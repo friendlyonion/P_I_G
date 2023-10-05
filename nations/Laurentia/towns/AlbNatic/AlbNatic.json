@@ -1,0 +1,149 @@
+{
+    "strings": {
+        "town": "AlbNatic",
+        "board": "/town set board [msg]",
+        "mayor": "TheNopeGuy",
+        "founder": "TheNopeGuy",
+        "mapColorHexCode": "f5f5dc"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1690048409869,
+        "joinedNationAt": 1692475203460
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 118,
+        "maxTownBlocks": 180,
+        "numResidents": 15,
+        "balance": 516.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -11840.65768644873,
+        "y": 67.0,
+        "z": -12564.51557727414
+    },
+    "home": {
+        "x": -741,
+        "z": -786
+    },
+    "residents": [
+        "TheNopeGuy",
+        "RngSlade",
+        "LaChose123",
+        "dan_gnl",
+        "IgguinsLePirate",
+        "Jforce2222",
+        "Janrdo",
+        "dzivan",
+        "THEpolymorph",
+        "gabrielRTSTT",
+        "Chrille250",
+        "FlabbiestCub8",
+        "Ghostocom1",
+        "1Bwenke",
+        "ponboyerson"
+    ],
+    "ranks": {
+        "Councillor": [
+            "1Bwenke"
+        ],
+        "Builder": [
+            "1Bwenke"
+        ],
+        "Recruiter": [
+            "LaChose123",
+            "1Bwenke"
+        ],
+        "Police": [
+            "TheNopeGuy",
+            "LaChose123",
+            "1Bwenke"
+        ],
+        "Tax-exempt": [
+            "1Bwenke"
+        ],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "Tamar__",
+        "shadow___apples",
+        "SkywarsClient",
+        "Felixxy1",
+        "sef05",
+        "D1T2C34",
+        "DaChessPlayrr",
+        "GhostPlayer4108",
+        "leandereendje",
+        "llamadude2011",
+        "Elg1k",
+        "Korparsi",
+        "YOUCHIKIRYAU",
+        "AD31",
+        "BillowySplash5",
+        "kasana2009",
+        "_XmumuX_",
+        "SAMSUNG_Note7",
+        "Jellioh",
+        "kabigonYuma",
+        "itzrealme123",
+        "hubbayes",
+        "k7onrad",
+        "MinecraftianTim",
+        "Arian1234",
+        "LilTeiro",
+        "Gunt123",
+        "i_won_in_793",
+        "ketchoop",
+        "d0magoj",
+        "serbianChad09",
+        "Efan2604",
+        "Im_Not_Uri",
+        "Unseamedcape654",
+        "musathebizzare"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -24182.696530544643,
+        "y": 128,
+        "z": -11832.300000011921
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "e0ffff",
+        "town": "Whitehorse",
+        "mayor": "N3G4T1V_2",
+        "founder": "N3G4T1V_2",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 52,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 9
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1689654336040,
+        "registered": 1689654326616
+    },
+    "residents": [
+        "N3G4T1V_2"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1512,
+        "z": -740
+    }
+}

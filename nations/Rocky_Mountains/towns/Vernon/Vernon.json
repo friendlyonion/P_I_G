@@ -1,0 +1,89 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -22158.335610075384,
+        "y": 92,
+        "z": -9315.769791767585
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "ffffe0",
+        "town": "Vernon",
+        "mayor": "RandovMan",
+        "founder": "RandovMan",
+        "board": "Splendor Sine Occasu"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 2,
+        "balance": 0,
+        "maxTownBlocks": 96,
+        "numTownBlocks": 45
+    },
+    "trusted": [
+        "Aced_Water"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1681691156468,
+        "registered": 1681690716593
+    },
+    "residents": [
+        "RandovMan",
+        "Aced_Water"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1385,
+        "z": -583
+    }
+}

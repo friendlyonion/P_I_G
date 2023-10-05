@@ -1,0 +1,103 @@
+{
+    "strings": {
+        "town": "Spokane_Valley",
+        "board": "Spokane Valley Awaits You!",
+        "mayor": "Sculk_",
+        "founder": "Sculk_",
+        "mapColorHexCode": "90ee90"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1659428684516,
+        "joinedNationAt": 1671423758154
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 173,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22130.212952351514,
+        "y": 82.0,
+        "z": -9024.290976149343
+    },
+    "home": {
+        "x": -1384,
+        "z": -565
+    },
+    "residents": [
+        "Sculk_"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Sculk_"
+        ],
+        "Builder": [
+            "Sculk_"
+        ],
+        "Recruiter": [
+            "Sculk_"
+        ],
+        "Police": [
+            "Sculk_"
+        ],
+        "Tax-exempt": [
+            "Sculk_"
+        ],
+        "Treasurer": [
+            "Sculk_"
+        ]
+    },
+    "trusted": [
+        "Sculk_",
+        "Milgorn123"
+    ],
+    "outlaws": [
+        "kyOt0"
+    ]
+}

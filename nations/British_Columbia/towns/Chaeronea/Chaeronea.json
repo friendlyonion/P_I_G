@@ -1,0 +1,110 @@
+{
+    "strings": {
+        "town": "Chaeronea",
+        "board": "Goated",
+        "mayor": "WrestlingWithGod",
+        "founder": "WrestlingWithGod",
+        "mapColorHexCode": "000080"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1667091997228,
+        "joinedNationAt": 1667098331357
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 360,
+        "maxTownBlocks": 200,
+        "numResidents": 15,
+        "balance": 25.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20477.57843648292,
+        "y": 100.0,
+        "z": -9041.492894653164
+    },
+    "home": {
+        "x": -1280,
+        "z": -566
+    },
+    "residents": [
+        "CrimsonTitan_",
+        "3llies",
+        "SparringDiablo",
+        "Xodius_",
+        "oreo_soda",
+        "Scarlxrd562",
+        "Aprolp",
+        "Pelleaon",
+        "RoosterSkyMC",
+        "Jakey_oneill",
+        "SnowMakesVids",
+        "No_L1f3",
+        "Funnderly",
+        "CriminalRiot",
+        "WrestlingWithGod"
+    ],
+    "ranks": {
+        "Councillor": [
+            "3llies"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Akeboun",
+        "RealLIMPOPO",
+        "moggs",
+        "Aurivia"
+    ],
+    "outlaws": [
+        "Judebricks",
+        "Mopugose12"
+    ]
+}

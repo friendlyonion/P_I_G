@@ -1,0 +1,88 @@
+{
+    "strings": {
+        "town": "Auburn",
+        "board": "/town set board [msg]",
+        "mayor": "Yarou",
+        "founder": "BboiSlayer",
+        "mapColorHexCode": "90ee90"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1689930119170,
+        "joinedNationAt": 1689930166215
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 14,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 1.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22620.41496547098,
+        "y": 101.9375,
+        "z": -7576.477080010858
+    },
+    "home": {
+        "x": -1414,
+        "z": -474
+    },
+    "residents": [
+        "Yarou"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "42Forest"
+    ],
+    "outlaws": []
+}

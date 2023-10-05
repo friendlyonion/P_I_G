@@ -1,0 +1,90 @@
+{
+    "strings": {
+        "town": "white_goat",
+        "board": "hello",
+        "mayor": "UnwishedBird218",
+        "founder": "fire_344",
+        "mapColorHexCode": "e9967a"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1682571520049,
+        "joinedNationAt": 1682571540504
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 49,
+        "maxTownBlocks": 76,
+        "numResidents": 2,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22072.02202142351,
+        "y": 114.0,
+        "z": -9792.936745132714
+    },
+    "home": {
+        "x": -1380,
+        "z": -613
+    },
+    "residents": [
+        "UnwishedBird218",
+        "SuperZekes"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "UnwishedBird218",
+        "Superior_Days93"
+    ],
+    "outlaws": []
+}

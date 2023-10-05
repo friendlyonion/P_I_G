@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Butte",
+        "board": "Land of Copper and gold",
+        "mayor": "_WeirdGuy",
+        "founder": "_WeirdGuy",
+        "mapColorHexCode": "4b0082"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1680117189477,
+        "joinedNationAt": 1690247236077
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 56,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 32.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21035.46709841054,
+        "y": 90.0,
+        "z": -8652.683451265648
+    },
+    "home": {
+        "x": -1315,
+        "z": -541
+    },
+    "residents": [
+        "_WeirdGuy"
+    ],
+    "ranks": {
+        "Councillor": [
+            "_WeirdGuy"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [
+            "_WeirdGuy"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "PatchieQc"
+    ]
+}

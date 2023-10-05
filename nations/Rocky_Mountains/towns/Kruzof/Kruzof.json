@@ -1,0 +1,103 @@
+{
+    "strings": {
+        "town": "Kruzof",
+        "board": "/town set board [msg]",
+        "mayor": "cletustturtle",
+        "founder": "cletustturtle",
+        "mapColorHexCode": "ff00ff"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1673820980025,
+        "joinedNationAt": 1691693389064
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 129,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 921.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": true
+        }
+    },
+    "spawn": {
+        "x": -25291.737786849415,
+        "y": 65.0,
+        "z": -10702.465997848105
+    },
+    "home": {
+        "x": -1581,
+        "z": -669
+    },
+    "residents": [
+        "cletustturtle",
+        "creaperhunter1",
+        "SilverTorch12",
+        "NerdyAssassin82"
+    ],
+    "ranks": {
+        "Councillor": [
+            "creaperhunter1",
+            "SilverTorch12",
+            "NerdyAssassin82"
+        ],
+        "Builder": [
+            "creaperhunter1",
+            "SilverTorch12",
+            "NerdyAssassin82"
+        ],
+        "Recruiter": [
+            "SilverTorch12"
+        ],
+        "Police": [
+            "SilverTorch12"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "raikonenn"
+    ]
+}

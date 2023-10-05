@@ -1,0 +1,86 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -24556.4735510126,
+        "y": 100,
+        "z": -9891.019680303436
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "a52a2a",
+        "town": "Hooded",
+        "mayor": "TalibanZ",
+        "founder": "TalibanZ",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 1,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 34
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1685321107420,
+        "registered": 1683932240860
+    },
+    "residents": [
+        "TalibanZ"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": true,
+            "explosion": false,
+            "fire": true,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1535,
+        "z": -619
+    }
+}

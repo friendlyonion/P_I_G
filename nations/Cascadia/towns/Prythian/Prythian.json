@@ -1,0 +1,96 @@
+{
+    "strings": {
+        "town": "Prythian",
+        "board": "",
+        "mayor": "Aurivia",
+        "founder": "North_Paso",
+        "mapColorHexCode": "0000ff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1688200151438,
+        "joinedNationAt": 1692401548476
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 114,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 4.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23079.03430337386,
+        "y": 65.0,
+        "z": -8505.280288804202
+    },
+    "home": {
+        "x": -1443,
+        "z": -532
+    },
+    "residents": [
+        "Numbernight4867",
+        "Aurivia"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Flatvent_One",
+        "Alucart",
+        "Nephi_UwU_oWo",
+        "Milgorn123",
+        "UhhRose",
+        "KARN4"
+    ],
+    "outlaws": [
+        "Superior_Days93"
+    ]
+}

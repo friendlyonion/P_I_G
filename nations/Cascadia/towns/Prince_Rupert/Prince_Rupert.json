@@ -1,0 +1,96 @@
+{
+    "strings": {
+        "town": "Prince_Rupert",
+        "board": "/town set board [msg]",
+        "mayor": "Ravioli983",
+        "founder": "OMG_Slayqueen",
+        "mapColorHexCode": "ff00ff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1679511435697,
+        "joinedNationAt": 1679511445008
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 27,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 90.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -24362.350605422573,
+        "y": 63.0,
+        "z": -10106.526255056955
+    },
+    "home": {
+        "x": -1523,
+        "z": -632
+    },
+    "residents": [
+        "Sonyarka",
+        "Ravioli983"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Sonyarka"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "DaCorgoKing",
+        "Milgorn123",
+        "WrestlingWithGod"
+    ],
+    "outlaws": [
+        "BlueYoder1995",
+        "ocquh"
+    ]
+}

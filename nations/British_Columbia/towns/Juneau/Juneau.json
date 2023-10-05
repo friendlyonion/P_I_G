@@ -1,0 +1,96 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -24790.94428574505,
+        "y": 66,
+        "z": -10459.206406636258
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "00ff00",
+        "town": "Juneau",
+        "mayor": "soft_frog",
+        "founder": "GunSmokey",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "British_Columbia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 38,
+        "numTownBlocks": 130
+    },
+    "trusted": [
+        "Fuze169",
+        "Bachinuni",
+        "TylenolEC",
+        "ViolentVampire",
+        "GodSpeedRunner",
+        "Falcoeur",
+        "DaPigThatBig",
+        "illinformed",
+        "Mole_"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1664058511947,
+        "registered": 1664058128509
+    },
+    "residents": [
+        "soft_frog"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": true
+    },
+    "home": {
+        "x": -1550,
+        "z": -654
+    }
+}

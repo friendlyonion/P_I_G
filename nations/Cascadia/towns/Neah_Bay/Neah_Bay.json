@@ -1,0 +1,96 @@
+{
+    "outlaws": [
+        "Judebricks"
+    ],
+    "spawn": {
+        "x": -23232.63083941755,
+        "y": 64.5,
+        "z": -9050.848289032798
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [
+            "Mole_"
+        ],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "8b008b",
+        "town": "Neah_Bay",
+        "mayor": "Mole_",
+        "founder": "Mole_",
+        "board": "Join the town discord X7crTwkDNR"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 25,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 237
+    },
+    "trusted": [
+        "Bachinuni",
+        "SayerQT",
+        "ViolentVampire",
+        "DaPigThatBig",
+        "Mole_"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1688851380660,
+        "registered": 1657739928451
+    },
+    "residents": [
+        "Mole_"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": false,
+        "isOverClaimed": true
+    },
+    "home": {
+        "x": -1453,
+        "z": -566
+    }
+}

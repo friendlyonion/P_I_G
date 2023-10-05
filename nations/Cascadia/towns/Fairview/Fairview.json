@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Fairview",
+        "board": "/town set board [msg]",
+        "mayor": "Orbit2510",
+        "founder": "Orbit2510",
+        "mapColorHexCode": "ffff00"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1692826652837,
+        "joinedNationAt": 1692826717201
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 29,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 93.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22580.546940644323,
+        "y": 82.0,
+        "z": -10631.514239939608
+    },
+    "home": {
+        "x": -1412,
+        "z": -665
+    },
+    "residents": [
+        "Orbit2510"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "Jw0olf",
+        "RealLIMPOPO"
+    ]
+}

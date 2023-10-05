@@ -1,0 +1,116 @@
+{
+    "strings": {
+        "town": "Port_McNeill",
+        "board": "Beacon City",
+        "mayor": "Setrus",
+        "founder": "Setrus",
+        "mapColorHexCode": "008b8b"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1679269234883,
+        "joinedNationAt": 1679269248364
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 272,
+        "maxTownBlocks": 248,
+        "numResidents": 21,
+        "balance": 513.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23727.452565511383,
+        "y": 74.0,
+        "z": -9464.364061645836
+    },
+    "home": {
+        "x": -1483,
+        "z": -592
+    },
+    "residents": [
+        "Setrus",
+        "oofingtonrevolt",
+        "BinomialMink870",
+        "Cr1i",
+        "brickbetterstone",
+        "moonbxggy",
+        "Turtlesquidz",
+        "iclutchyeeet",
+        "Tideee_",
+        "TTV_DYLEMMA",
+        "Superpork09",
+        "pitsOMG",
+        "KashTB9001",
+        "Bluedog6216",
+        "angxl1",
+        "Diivison",
+        "G1GAGOOF",
+        "GordoLobo3",
+        "79HD",
+        "Marinebison1",
+        "Shadow89305966"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Tideee_"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "aMopu",
+        "BlueYoder1995",
+        "Ovoud",
+        "ucne",
+        "elohimjoeyyblade",
+        "CheatoClient",
+        "Superior_Days93"
+    ]
+}

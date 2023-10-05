@@ -1,0 +1,96 @@
+{
+    "strings": {
+        "town": "Clovis",
+        "board": "/town set board [msg]",
+        "mayor": "Jaggerist_King",
+        "founder": "Jaggerist_King",
+        "mapColorHexCode": "556b2f"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1681724106249,
+        "joinedNationAt": 1681724167300
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 7,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 48.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": true
+        }
+    },
+    "spawn": {
+        "x": -22313.375054464734,
+        "y": 66.0,
+        "z": -6983.316763789518
+    },
+    "home": {
+        "x": -1395,
+        "z": -437
+    },
+    "residents": [
+        "Jaggerist_King"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "EskayNotEmkay",
+        "42Forest",
+        "x________"
+    ],
+    "outlaws": [
+        "kasana2025",
+        "Keremiko10",
+        "Kloton",
+        "keeita",
+        "Ryo5Syo5"
+    ]
+}

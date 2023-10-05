@@ -1,0 +1,86 @@
+{
+    "strings": {
+        "town": "SpruceVille",
+        "board": "/town set board [msg]",
+        "mayor": "CheedarCheez",
+        "founder": "CheedarCheez",
+        "mapColorHexCode": "9400d3"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1692199878717,
+        "joinedNationAt": 1692199924808
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 11,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 8.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22910.92834940903,
+        "y": 94.0,
+        "z": -10751.53837592086
+    },
+    "home": {
+        "x": -1432,
+        "z": -672
+    },
+    "residents": [
+        "CheedarCheez"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

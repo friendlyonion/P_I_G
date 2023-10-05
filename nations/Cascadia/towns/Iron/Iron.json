@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Iron",
+        "board": "Frontier Country",
+        "mayor": "scajamarsh",
+        "founder": "scajamarsh",
+        "mapColorHexCode": "d3d3d3"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1686104884797,
+        "joinedNationAt": 1689215544670
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 81,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21558.39605780623,
+        "y": 84.0,
+        "z": -8067.542923785145
+    },
+    "home": {
+        "x": -1348,
+        "z": -505
+    },
+    "residents": [
+        "scajamarsh",
+        "Kwemony",
+        "FishyBear4",
+        "Palp_Nojuce6"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

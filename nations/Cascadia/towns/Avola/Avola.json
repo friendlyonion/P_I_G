@@ -1,0 +1,110 @@
+{
+    "strings": {
+        "town": "Avola",
+        "board": "Hi!",
+        "mayor": "cheeseballfluffy",
+        "founder": "cheeseballfluffy",
+        "mapColorHexCode": "ff0000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1656737118965,
+        "joinedNationAt": 1662861647747
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 91,
+        "maxTownBlocks": 144,
+        "numResidents": 8,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22284.441110036332,
+        "y": 91.5,
+        "z": -9720.540401094973
+    },
+    "home": {
+        "x": -1393,
+        "z": -608
+    },
+    "residents": [
+        "cheeseballfluffy",
+        "FillingComet13",
+        "Runecircle",
+        "MinePro213398",
+        "ProxPort",
+        "ValanceS",
+        "Copper_Deacon",
+        "_Airius_"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "Nexus___",
+        "DEMON_Lodos",
+        "Nightoria",
+        "Judebricks",
+        "dempy_",
+        "Honduras_",
+        "8set",
+        "BillowySplash5",
+        "mudk2p",
+        "_fruityboi",
+        "Superior_Days93",
+        "Cosmic_Space_158",
+        "HumzahKhan",
+        "cap_Anderson453",
+        "BigDogEater420",
+        "RandovMan"
+    ]
+}

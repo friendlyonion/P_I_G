@@ -1,0 +1,94 @@
+{
+    "strings": {
+        "town": "Jackson_Hole",
+        "board": "/town set board [msg]",
+        "mayor": "GuyWithACat",
+        "founder": "GuyWithACat",
+        "mapColorHexCode": "00008b"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1673843483062,
+        "joinedNationAt": 1673844061054
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 68,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21063.95506893213,
+        "y": 97.0,
+        "z": -8075.498048411174
+    },
+    "home": {
+        "x": -1317,
+        "z": -505
+    },
+    "residents": [
+        "GuyWithACat",
+        "realacehy",
+        "TaxingHorizon31"
+    ],
+    "ranks": {
+        "Councillor": [
+            "realacehy",
+            "TaxingHorizon31"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "fire_344",
+        "Cosmic_Space_158"
+    ]
+}

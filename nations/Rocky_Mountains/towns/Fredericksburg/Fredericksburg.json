@@ -1,0 +1,105 @@
+{
+    "outlaws": [
+        "EstiQT",
+        "illinformed",
+        "ViolentVampire",
+        "Moxies_hoe",
+        "Oilerator",
+        "SayerQT",
+        "Bachinuni",
+        "AghastBlock",
+        "Milgorn123",
+        "Paradox_1080",
+        "Setrus",
+        "WinterStars",
+        "North_Paso"
+    ],
+    "spawn": {
+        "x": -22489.41324872148,
+        "y": 69,
+        "z": -8708.532331864584
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "f5f5dc",
+        "town": "Fredericksburg",
+        "mayor": "THEF2PN00B",
+        "founder": "THEF2PN00B",
+        "board": "das Willkommen to Fredericksburg,RM we got good bier ja!"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 32
+    },
+    "trusted": [
+        "_dogster",
+        "8set",
+        "_sadpoo",
+        "MegaPotato_"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1680933312066,
+        "registered": 1669583439912
+    },
+    "residents": [
+        "THEF2PN00B"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1406,
+        "z": -545
+    }
+}

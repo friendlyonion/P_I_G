@@ -1,0 +1,113 @@
+{
+    "strings": {
+        "town": "Tri_Cities",
+        "board": "Oasis of the East",
+        "mayor": "ScandiSpear",
+        "founder": "Milgorn123",
+        "mapColorHexCode": "a9a9a9"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1673222760687,
+        "joinedNationAt": 1673222854402
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 167,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22335.48922265448,
+        "y": 61.0,
+        "z": -8849.499748149097
+    },
+    "home": {
+        "x": -1396,
+        "z": -554
+    },
+    "residents": [
+        "ScandiSpear",
+        "Matiasole"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "ScandiSpear"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "DaCorgoKing",
+        "Setrus",
+        "Akeboun",
+        "Sculk_",
+        "Bachinuni",
+        "Beamz30",
+        "AghastBlock",
+        "Milgorn123"
+    ],
+    "outlaws": [
+        "THEF2PN00B",
+        "Superior4kolk",
+        "Huxf",
+        "Dragonlilskib",
+        "BlueSupreme",
+        "sexycreeper",
+        "ManofWarfare",
+        "BillowySplash5",
+        "Covenhel_01",
+        "aMopu",
+        "Moxies_hoe",
+        "not_ewhy",
+        "Cabbstiny",
+        "kasana6969"
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "outlaws": [
+        "Malso_",
+        "_sadpoo",
+        "5set",
+        "ECHO69_69"
+    ],
+    "spawn": {
+        "x": -24578.635726149914,
+        "y": 73,
+        "z": -10485.054325081763
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [
+            "Bachinuni"
+        ],
+        "Builder": [],
+        "Councillor": [
+            "GodSpeedRunner",
+            "Fuze169",
+            "ViolentVampire",
+            "Bachinuni"
+        ],
+        "Police": [],
+        "Recruiter": [
+            "nutkingcall10",
+            "Bachinuni"
+        ]
+    },
+    "strings": {
+        "mapColorHexCode": "00ffff",
+        "town": "Fjord",
+        "mayor": "DaPigThatBig",
+        "founder": "DaPigThatBig",
+        "board": "Show your power by appearing powerless."
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 25,
+        "balance": 1436,
+        "maxTownBlocks": 280,
+        "numTownBlocks": 164
+    },
+    "trusted": [
+        "GodSpeedRunner",
+        "Bachinuni",
+        "illinformed",
+        "Mole_",
+        "ViolentVampire"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1686018684959,
+        "registered": 1686018672668
+    },
+    "residents": [
+        "DaPigThatBig",
+        "GodSpeedRunner",
+        "Fuze169",
+        "Vukiccc",
+        "ViolentVampire",
+        "MelancholicBelle",
+        "Grreatest",
+        "Osama_bin_who",
+        "Nerooh",
+        "swuest",
+        "Enter_up",
+        "LeeMcluckie",
+        "AskewAce6577671",
+        "nutkingcall10",
+        "Bluesnake70",
+        "radioactiveman5",
+        "troutageton",
+        "Rodekeel",
+        "ItzWestPalm",
+        "gabemaster153",
+        "MagicGnome3",
+        "Fathray",
+        "Bachinuni",
+        "IDrinkT1ddyMilk",
+        "Pluds"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1537,
+        "z": -656
+    }
+}

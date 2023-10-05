@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Blueport",
+        "board": "/town set board [msg]",
+        "mayor": "EmpZeno",
+        "founder": "EmpZeno",
+        "mapColorHexCode": "ff00ff"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1690012057393,
+        "joinedNationAt": 1690012098294
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 29,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -13032.37578307604,
+        "y": 66.0,
+        "z": -11095.505566497592
+    },
+    "home": {
+        "x": -815,
+        "z": -694
+    },
+    "residents": [
+        "EmpZeno"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "DuckRoyal",
+        "jammeeessss"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Helena",
+        "board": "/town set board [msg]",
+        "mayor": "Bachinuni",
+        "founder": "EstiQT",
+        "mapColorHexCode": "a9a9a9"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1688947133234,
+        "joinedNationAt": 1688947174622
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 28,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20918.30000001192,
+        "y": 92.0,
+        "z": -8758.357244515395
+    },
+    "home": {
+        "x": -1308,
+        "z": -548
+    },
+    "residents": [
+        "_amgus",
+        "Bachinuni"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "EstiQT"
+    ],
+    "outlaws": []
+}

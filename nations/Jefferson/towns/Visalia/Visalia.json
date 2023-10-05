@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Visalia",
+        "board": "/town set board [msg]",
+        "mayor": "SkittlesFairy",
+        "founder": "LeNiiR",
+        "mapColorHexCode": "c0c0c0"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1677748605214,
+        "joinedNationAt": 1687737795601
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": true,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 81,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 32.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22279.45391603628,
+        "y": 71.0,
+        "z": -6820.300000011921
+    },
+    "home": {
+        "x": -1393,
+        "z": -427
+    },
+    "residents": [
+        "SkittlesFairy",
+        "rcfullscale2",
+        "CheekyMugen",
+        "joeljustin1",
+        "LightVolcano"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "42Forest"
+    ],
+    "outlaws": []
+}

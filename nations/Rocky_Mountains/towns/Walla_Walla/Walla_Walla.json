@@ -1,0 +1,103 @@
+{
+    "strings": {
+        "town": "Walla_Walla",
+        "board": "Long Live RMF",
+        "mayor": "OnlyPico",
+        "founder": "North_Paso",
+        "mapColorHexCode": "0000ff"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1688200151438,
+        "joinedNationAt": 1688440217027
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 114,
+        "maxTownBlocks": 128,
+        "numResidents": 6,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23079.03430337386,
+        "y": 65.0,
+        "z": -8505.280288804202
+    },
+    "home": {
+        "x": -1443,
+        "z": -532
+    },
+    "residents": [
+        "Numbernight4867",
+        "DanielStarline",
+        "OnlyPico",
+        "danieltx",
+        "KillDozer9530",
+        "Loe64"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "BillowySplash5",
+        "Da_hui_hamster",
+        "fire_344",
+        "DraftBust",
+        "GOATfromNEPAL",
+        "_fruityboi",
+        "OnlyPico",
+        "KillerVortex1",
+        "mudk2p",
+        "_WeirdGuy",
+        "szn2"
+    ],
+    "outlaws": []
+}

@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Umatilla_County",
+        "board": "Stream AT THIS VELOCITY by Thursday",
+        "mayor": "Kombolizmo",
+        "founder": "Rocksthunder",
+        "mapColorHexCode": "556b2f"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1685040307310,
+        "joinedNationAt": 1691048078197
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 68,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 31.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21990.998675199367,
+        "y": 90.0,
+        "z": -8429.179198584363
+    },
+    "home": {
+        "x": -1375,
+        "z": -527
+    },
+    "residents": [
+        "Kombolizmo"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "SkittlesFairy",
+        "The_Forest"
+    ],
+    "outlaws": []
+}

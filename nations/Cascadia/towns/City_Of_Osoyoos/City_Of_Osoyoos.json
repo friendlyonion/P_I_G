@@ -1,0 +1,171 @@
+{
+    "strings": {
+        "town": "City_Of_Osoyoos",
+        "board": "The Rising Sun of Cascadia.",
+        "mayor": "KARN4",
+        "founder": "KARN4",
+        "mapColorHexCode": "800080"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1688709304204,
+        "joinedNationAt": 1688709338655
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 279,
+        "maxTownBlocks": 320,
+        "numResidents": 30,
+        "balance": 567.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22431.45398397568,
+        "y": 80.0,
+        "z": -9091.399949146828
+    },
+    "home": {
+        "x": -1402,
+        "z": -569
+    },
+    "residents": [
+        "KARN4",
+        "Flatvent_One",
+        "Alucart",
+        "Nephi_UwU_oWo",
+        "roman_legend",
+        "Astra_X",
+        "NightSkye777",
+        "TheNetherWitch",
+        "ScarLC",
+        "BlueDragonexe",
+        "KiNgSmIlEyY82",
+        "freshfoodpeople",
+        "Keete_",
+        "OfficialWaffle79",
+        "galaticravel",
+        "Acelly",
+        "Twidjaja",
+        "TisCloud",
+        "chumpcharlie",
+        "Nxtlan",
+        "MCVane",
+        "RagedHarambe",
+        "Aurivia",
+        "ZephALT",
+        "UhhRose",
+        "chee_zy",
+        "shikadsu",
+        "UberTortoise",
+        "uikk",
+        "tngAlienlex"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Flatvent_One",
+            "Alucart",
+            "Nephi_UwU_oWo",
+            "TheNetherWitch",
+            "Acelly",
+            "UhhRose"
+        ],
+        "Builder": [
+            "roman_legend",
+            "Astra_X",
+            "NightSkye777",
+            "TheNetherWitch",
+            "ScarLC",
+            "KiNgSmIlEyY82",
+            "freshfoodpeople",
+            "Keete_",
+            "OfficialWaffle79",
+            "galaticravel",
+            "Acelly",
+            "chumpcharlie",
+            "Nxtlan",
+            "RagedHarambe",
+            "Aurivia",
+            "UhhRose",
+            "chee_zy",
+            "uikk",
+            "tngAlienlex"
+        ],
+        "Recruiter": [
+            "Nxtlan",
+            "Aurivia"
+        ],
+        "Police": [
+            "Nxtlan"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "Astra_X",
+            "NightSkye777",
+            "TheNetherWitch",
+            "Keete_",
+            "Twidjaja",
+            "chumpcharlie",
+            "Nxtlan",
+            "Aurivia",
+            "UhhRose",
+            "chee_zy",
+            "uikk"
+        ]
+    },
+    "trusted": [
+        "chumpcharlie",
+        "tngAlienlex",
+        "chee_zy",
+        "Aurivia",
+        "Beamz30",
+        "ZephALT",
+        "Twidjaja"
+    ],
+    "outlaws": [
+        "minatohayate",
+        "kasana20O6",
+        "Superior_Days93"
+    ]
+}

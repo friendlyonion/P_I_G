@@ -1,0 +1,89 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -22505.422733391068,
+        "y": 91,
+        "z": -10256.621641181264
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "8b008b",
+        "town": "lake_mukip",
+        "mayor": "mudk2p",
+        "founder": "mudk2p",
+        "board": ""
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 36
+    },
+    "trusted": [
+        "8set",
+        "BillowySplash5"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1679104737840,
+        "registered": 1679104730835
+    },
+    "residents": [
+        "mudk2p"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": true,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1407,
+        "z": -642
+    }
+}

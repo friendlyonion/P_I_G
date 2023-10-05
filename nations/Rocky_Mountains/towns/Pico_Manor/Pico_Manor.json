@@ -1,0 +1,94 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -21917.284659231686,
+        "y": 88.9375,
+        "z": -10118.702363516573
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "add8e6",
+        "town": "Pico_Manor",
+        "mayor": "cap_Anderson453",
+        "founder": "OnlyPico",
+        "board": "RMF"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 30,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 15
+    },
+    "trusted": [
+        "cap_Anderson453",
+        "8set",
+        "BillowySplash5",
+        "OnlyPico",
+        "_WeirdGuy",
+        "_fruityboi",
+        "mudk2p"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1688621641004,
+        "registered": 1687496283934
+    },
+    "residents": [
+        "cap_Anderson453"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1370,
+        "z": -633
+    }
+}

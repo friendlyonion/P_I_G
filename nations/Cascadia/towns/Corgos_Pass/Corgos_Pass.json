@@ -1,0 +1,121 @@
+{
+    "strings": {
+        "town": "Corgos_Pass",
+        "board": "Initial D Knockoff",
+        "mayor": "DaCorgoKing",
+        "founder": "DaCorgoKing",
+        "mapColorHexCode": "808000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1669600058514,
+        "joinedNationAt": 1669600707359
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 150,
+        "maxTownBlocks": 152,
+        "numResidents": 9,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23471.345569987217,
+        "y": 66.0,
+        "z": -9474.077665877083
+    },
+    "home": {
+        "x": -1467,
+        "z": -593
+    },
+    "residents": [
+        "DaCorgoKing",
+        "SkinForge",
+        "Cannonball131",
+        "lvlzodiacz",
+        "K1kimor",
+        "chunkyboy444",
+        "Kadiiii",
+        "Timothybuttons",
+        "MultiKl"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "Bobkavitsu",
+        "DEMON_Lodos",
+        "kasana2003",
+        "Xia_moon",
+        "21don",
+        "kasana2007",
+        "SamuraiKosei",
+        "EFT_DEMATI",
+        "_saff_",
+        "kasana2005",
+        "kasana20O6",
+        "mizkami",
+        "Honduras_",
+        "___Cinna",
+        "dempy_",
+        "Wolf_Gang123",
+        "basedSkeleton",
+        "FierceDrago_",
+        "mudk2p",
+        "aMopu",
+        "PresidentLevi",
+        "PatchieQc",
+        "JackTheBunnyMC",
+        "ucne",
+        "8set",
+        "_Horilka"
+    ]
+}

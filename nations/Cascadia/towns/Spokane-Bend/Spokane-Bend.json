@@ -1,0 +1,108 @@
+{
+    "strings": {
+        "town": "Spokane-Bend",
+        "board": "Shopping, Houses, Food, What More Could you Ask for?",
+        "mayor": "Remytheratt07",
+        "founder": "jtwokay",
+        "mapColorHexCode": "ffffe0"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1658640139334,
+        "joinedNationAt": 1688788991867
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 270,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 2.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21912.675775224536,
+        "y": 79.0,
+        "z": -8905.699999988079
+    },
+    "home": {
+        "x": -1370,
+        "z": -557
+    },
+    "residents": [
+        "Remytheratt07",
+        "hrhlulu",
+        "Archie_Slater"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "Remytheratt07"
+        ],
+        "Recruiter": [],
+        "Police": [
+            "Remytheratt07"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "Remytheratt07"
+        ]
+    },
+    "trusted": [
+        "Luciiiuwu",
+        "TylenolEC",
+        "Bachinuni",
+        "Milgorn123",
+        "hrhlulu"
+    ],
+    "outlaws": [
+        "Paradox_1080",
+        "kasana20O6",
+        "TheSquidSloth",
+        "bejamin700",
+        "aMopu",
+        "BillowySplash5",
+        "Superior_Days93"
+    ]
+}

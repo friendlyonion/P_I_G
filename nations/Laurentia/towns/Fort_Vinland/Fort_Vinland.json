@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Fort_Vinland",
+        "board": "/town set board [msg]",
+        "mayor": "atTAboycARL",
+        "founder": "atTAboycARL",
+        "mapColorHexCode": "ff0000"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1691345600844,
+        "joinedNationAt": 1691345621167
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 9,
+        "maxTownBlocks": 92,
+        "numResidents": 4,
+        "balance": 32.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -13100.47012164912,
+        "y": 89.0,
+        "z": -11389.344921412157
+    },
+    "home": {
+        "x": -819,
+        "z": -712
+    },
+    "residents": [
+        "atTAboycARL",
+        "Jazzy_Chicken",
+        "barryexel",
+        "N_X_T"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

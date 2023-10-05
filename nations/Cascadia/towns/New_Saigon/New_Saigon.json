@@ -1,0 +1,106 @@
+{
+    "strings": {
+        "town": "New_Saigon",
+        "board": "LETS GET RICHES AND BITCHES",
+        "mayor": "Esteban140",
+        "founder": "Esteban140",
+        "mapColorHexCode": "ffb6c1"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1670040850205,
+        "joinedNationAt": 1670041249905
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 169,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 131.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": true
+        }
+    },
+    "spawn": {
+        "x": -24067.222833913114,
+        "y": 65.0,
+        "z": -9867.207161632632
+    },
+    "home": {
+        "x": -1505,
+        "z": -617
+    },
+    "residents": [
+        "Esteban140"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Esteban140"
+        ],
+        "Builder": [
+            "Esteban140"
+        ],
+        "Recruiter": [
+            "Esteban140"
+        ],
+        "Police": [
+            "Esteban140"
+        ],
+        "Tax-exempt": [
+            "Esteban140"
+        ],
+        "Treasurer": [
+            "Esteban140"
+        ]
+    },
+    "trusted": [
+        "WabiSabi1219",
+        "Aylywyn",
+        "Covenhel_01"
+    ],
+    "outlaws": [
+        "Thwerrve",
+        "OnlyPico",
+        "InceptionKeeper"
+    ]
+}

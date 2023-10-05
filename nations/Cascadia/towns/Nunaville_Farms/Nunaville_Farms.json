@@ -1,0 +1,89 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -22347.192322852963,
+        "y": 79,
+        "z": -12264.699206298123
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "000000",
+        "town": "Nunaville_Farms",
+        "mayor": "Ben_Dover7896",
+        "founder": "MetroGamer04",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 4,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 27
+    },
+    "trusted": [
+        "MetroGamer04",
+        "Blu_Zebra"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1678147646500,
+        "registered": 1678147634523
+    },
+    "residents": [
+        "Ben_Dover7896"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1397,
+        "z": -767
+    }
+}

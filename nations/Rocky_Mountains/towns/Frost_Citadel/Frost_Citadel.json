@@ -1,0 +1,93 @@
+{
+    "outlaws": [
+        "Paradox_1080"
+    ],
+    "spawn": {
+        "x": -22349.44308291957,
+        "y": 72.5,
+        "z": -8791.357909008604
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "f0ffff",
+        "town": "Frost_Citadel",
+        "mayor": "BurlyGator",
+        "founder": "Moxies_hoe",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 71
+    },
+    "trusted": [
+        "8set",
+        "BillowySplash5",
+        "mudk2p",
+        "DraftBust"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1687832047511,
+        "registered": 1673214648865
+    },
+    "residents": [
+        "BurlyGator"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": true,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": false,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1397,
+        "z": -550
+    }
+}

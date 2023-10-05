@@ -1,0 +1,93 @@
+{
+    "strings": {
+        "town": "Nunaville",
+        "board": "Vote nerds",
+        "mayor": "Blu_Zebra",
+        "founder": "Blu_Zebra",
+        "mapColorHexCode": "8b0000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1676694241956,
+        "joinedNationAt": 1677204646738
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 98,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 623.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22567.883618632153,
+        "y": 113.0,
+        "z": -12224.27840612118
+    },
+    "home": {
+        "x": -1411,
+        "z": -765
+    },
+    "residents": [
+        "Blu_Zebra",
+        "MetroGamer04",
+        "zaoMC"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "MetroGamer04",
+        "Ben_Dover7896"
+    ],
+    "outlaws": [
+        "kosticc"
+    ]
+}

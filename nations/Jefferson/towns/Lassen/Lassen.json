@@ -1,0 +1,91 @@
+{
+    "strings": {
+        "town": "Lassen",
+        "board": "Welcome to Lassen, where nature is present and people live alongside it. Enjoy the scenery of the rocky mountain top and breath in the forest air!",
+        "mayor": "moomincrimes",
+        "founder": "moomincrimes",
+        "mapColorHexCode": "9932cc"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1688672151525,
+        "joinedNationAt": 1688672185200
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 61,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 10.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22792.14859651957,
+        "y": 89.0,
+        "z": -7751.310153022968
+    },
+    "home": {
+        "x": -1425,
+        "z": -485
+    },
+    "residents": [
+        "moomincrimes",
+        "jungaboi",
+        "berlioznoir",
+        "lvmarz"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "BboiSlayer"
+    ]
+}

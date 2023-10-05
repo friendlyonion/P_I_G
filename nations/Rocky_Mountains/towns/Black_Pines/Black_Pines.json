@@ -1,0 +1,127 @@
+{
+    "strings": {
+        "town": "Black_Pines",
+        "board": "Skill issue smh",
+        "mayor": "RealLIMPOPO",
+        "founder": "EdgyIsRandom",
+        "mapColorHexCode": "800000"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1674770514256,
+        "joinedNationAt": 1678065061625
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": true,
+        "isCapital": true,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 306,
+        "maxTownBlocks": 308,
+        "numResidents": 31,
+        "balance": 16.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22520.02547997016,
+        "y": 91.0,
+        "z": -9653.081794243477
+    },
+    "home": {
+        "x": -1408,
+        "z": -604
+    },
+    "residents": [
+        "SirGriff1",
+        "MistarRager",
+        "ProstateExam",
+        "ProbNotAFemboi",
+        "hosgeldin",
+        "fayhi",
+        "KaiRhaast",
+        "HumzahKhan",
+        "Da_hui_hamster",
+        "Framed51",
+        "AzaeliXX",
+        "GreatGrandpaJo",
+        "MonsteroniJoe",
+        "HighLow0317",
+        "moti_MC",
+        "Adem11",
+        "turkey9079",
+        "thegodofwar222",
+        "IL1keT0ast",
+        "Sparksamus",
+        "WonkyWin",
+        "jeffzilla300",
+        "Jud_dud",
+        "muddysea",
+        "ToxicVillager88",
+        "RealLIMPOPO",
+        "UberTortoise",
+        "Vortex420",
+        "IJustLikePigs",
+        "Jw0olf",
+        "CY_420"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "KrackKocaine",
+        "moggs"
+    ],
+    "outlaws": [
+        "Akeboun",
+        "Bachinuni",
+        "Only_YouTube",
+        "globemail",
+        "Unbated",
+        "JitBlippin",
+        "KeijoDPutt"
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "strings": {
+        "town": "Long_Live_RMF",
+        "board": "Skill issue smh",
+        "mayor": "BillowySplash5",
+        "founder": "EdgyIsRandom",
+        "mapColorHexCode": "800000"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1674770514256,
+        "joinedNationAt": 1678065061625
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": true,
+        "isCapital": true,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 306,
+        "maxTownBlocks": 456,
+        "numResidents": 47,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22520.02547997016,
+        "y": 91.0,
+        "z": -9653.081794243477
+    },
+    "home": {
+        "x": -1408,
+        "z": -604
+    },
+    "residents": [
+        "BillowySplash5",
+        "_Santo_",
+        "SirGriff1",
+        "MistarRager",
+        "BoogieManT",
+        "IceyOnYT",
+        "ProstateExam",
+        "ProbNotAFemboi",
+        "Pohm247",
+        "CristianPatrick",
+        "hosgeldin",
+        "Banach1",
+        "fayhi",
+        "Walesons",
+        "KaiRhaast",
+        "Yacasin_Azari",
+        "QIMMM",
+        "HumzahKhan",
+        "ImZylith",
+        "Da_hui_hamster",
+        "Framed51",
+        "AzaeliXX",
+        "corrupt13d",
+        "thedestroyerxrt",
+        "GreatGrandpaJo",
+        "MonsteroniJoe",
+        "HighLow0317",
+        "moti_MC",
+        "Adem11",
+        "turkey9079",
+        "Pizza651379",
+        "thegodofwar222",
+        "_fruityboi",
+        "collindaproyt",
+        "IL1keT0ast",
+        "Sparksamus",
+        "WonkyWin",
+        "SDanielG",
+        "jeffzilla300",
+        "Siphen78",
+        "Jud_dud",
+        "muddysea",
+        "ToxicVillager88",
+        "Ayashiiyo",
+        "jesoos2362",
+        "RealLIMPOPO",
+        "KatMinmo"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "8set",
+        "mudk2p",
+        "BillowySplash5"
+    ],
+    "outlaws": [
+        "MC_Steel",
+        "Akeboun",
+        "Bachinuni",
+        "cheeseballfluffy",
+        "Only_YouTube",
+        "globemail",
+        "Unbated",
+        "JitBlippin",
+        "KeijoDPutt"
+    ]
+}

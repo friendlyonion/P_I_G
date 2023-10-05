@@ -1,0 +1,93 @@
+{
+    "strings": {
+        "town": "Ahornbach",
+        "board": "/town set board [msg]",
+        "mayor": "Nickijim",
+        "founder": "Nickijim",
+        "mapColorHexCode": "add8e6"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1674256839931,
+        "joinedNationAt": 1674417343360
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": true,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 73,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 15.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23143.542583924518,
+        "y": 72.0,
+        "z": -11132.498128683257
+    },
+    "home": {
+        "x": -1447,
+        "z": -696
+    },
+    "residents": [
+        "Nickijim",
+        "Bean2God"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Bean2God"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "Littleol",
+        "Gautomy4375",
+        "ManofWarfare"
+    ]
+}

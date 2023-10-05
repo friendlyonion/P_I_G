@@ -1,0 +1,114 @@
+{
+    "strings": {
+        "town": "MtConstantinople",
+        "board": "PRAISE THE FATHER THE SON AND THE HOLY SPIRIT",
+        "mayor": "Thither171",
+        "founder": "Thither171",
+        "mapColorHexCode": "f0ffff"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1691969390912,
+        "joinedNationAt": 1692744067462
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 24,
+        "maxTownBlocks": 84,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21580.0544723056,
+        "y": 120.0,
+        "z": -9537.08709455068
+    },
+    "home": {
+        "x": -1349,
+        "z": -597
+    },
+    "residents": [
+        "Thither171",
+        "jesoos2362",
+        "Ayashiiyo"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Thither171",
+            "jesoos2362",
+            "Ayashiiyo"
+        ],
+        "Builder": [
+            "Thither171",
+            "jesoos2362",
+            "Ayashiiyo"
+        ],
+        "Recruiter": [
+            "Thither171",
+            "jesoos2362"
+        ],
+        "Police": [
+            "Thither171",
+            "jesoos2362",
+            "Ayashiiyo"
+        ],
+        "Tax-exempt": [
+            "Thither171",
+            "jesoos2362",
+            "Ayashiiyo"
+        ],
+        "Treasurer": [
+            "Thither171",
+            "jesoos2362",
+            "Ayashiiyo"
+        ]
+    },
+    "trusted": [
+        "jesoos2362",
+        "Ayashiiyo"
+    ],
+    "outlaws": []
+}

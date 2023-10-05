@@ -1,0 +1,114 @@
+{
+    "strings": {
+        "town": "Sullivan_Bay",
+        "board": "Build. Explore. Prosper.",
+        "mayor": "PaperLemur12140",
+        "founder": "PaperLemur12140",
+        "mapColorHexCode": "800080"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1689107476822,
+        "joinedNationAt": 1689111888554
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 34,
+        "maxTownBlocks": 144,
+        "numResidents": 8,
+        "balance": 92.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23684.964380248428,
+        "y": 64.0,
+        "z": -9561.232421588944
+    },
+    "home": {
+        "x": -1481,
+        "z": -598
+    },
+    "residents": [
+        "PaperLemur12140",
+        "__Turtled__",
+        "Kurai_Sensai",
+        "MostlyOceans",
+        "Elayne350008",
+        "samula169",
+        "b_m_z_vuki",
+        "pou_c"
+    ],
+    "ranks": {
+        "Councillor": [
+            "__Turtled__"
+        ],
+        "Builder": [
+            "__Turtled__"
+        ],
+        "Recruiter": [
+            "__Turtled__"
+        ],
+        "Police": [
+            "PaperLemur12140",
+            "__Turtled__"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "__Turtled__",
+        "samula169",
+        "Milgorn123"
+    ],
+    "outlaws": [
+        "BillowySplash5",
+        "cowilo",
+        "SirGriff1",
+        "aMopu",
+        "8set",
+        "mhuzeyfey",
+        "Superior_Days93"
+    ]
+}

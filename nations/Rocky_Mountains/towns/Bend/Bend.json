@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Bend",
+        "board": "/town set board [msg]",
+        "mayor": "thehermitking_",
+        "founder": "CatPerson136",
+        "mapColorHexCode": "00008b"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1654400719212,
+        "joinedNationAt": 1685255159517
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 35,
+        "maxTownBlocks": 76,
+        "numResidents": 2,
+        "balance": 200.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23157.72725316345,
+        "y": 92.0,
+        "z": -9816.61659833646
+    },
+    "home": {
+        "x": -1448,
+        "z": -614
+    },
+    "residents": [
+        "AlsouVelva",
+        "thehermitking_"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Cynvo",
+        "TheHaiLong",
+        "DraftBust",
+        "BillowySplash5"
+    ],
+    "outlaws": []
+}

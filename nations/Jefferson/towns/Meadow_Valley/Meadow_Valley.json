@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Meadow_Valley",
+        "board": "a soon to be city",
+        "mayor": "not_ewhy",
+        "founder": "not_ewhy",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1687641184428,
+        "joinedNationAt": 1691634144994
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 18,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22544.02014998971,
+        "y": 92.0,
+        "z": -7405.2023704072935
+    },
+    "home": {
+        "x": -1410,
+        "z": -463
+    },
+    "residents": [
+        "not_ewhy",
+        "RobinDeBobin",
+        "RagingClawitzer"
+    ],
+    "ranks": {
+        "Councillor": [
+            "RobinDeBobin"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "LegoScrap"
+    ]
+}

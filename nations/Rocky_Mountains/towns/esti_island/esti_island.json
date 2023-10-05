@@ -1,0 +1,104 @@
+{
+    "strings": {
+        "town": "esti_island",
+        "board": "/town set board [msg]",
+        "mayor": "GOATfromNEPAL",
+        "founder": "UnwishedBird218",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1684473183442,
+        "joinedNationAt": 1684473206783
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 17,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 32.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": true,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22888.69999998808,
+        "y": 65.0,
+        "z": -8921.516665660201
+    },
+    "home": {
+        "x": -1431,
+        "z": -558
+    },
+    "residents": [
+        "GOATfromNEPAL"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "kasana2003",
+        "TheOnlyGrimace",
+        "_WeirdGuy",
+        "cowilo",
+        "sugar_79",
+        "BillowySplash5",
+        "DubsrVSF",
+        "Kloton",
+        "fire_344",
+        "mudk2p",
+        "Ovoud",
+        "5set",
+        "8set",
+        "OnlyPico",
+        "_dogster",
+        "InceptionKeeper",
+        "obamaiscool420"
+    ],
+    "outlaws": []
+}

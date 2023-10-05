@@ -1,0 +1,120 @@
+{
+    "strings": {
+        "town": "Phoenix",
+        "board": "The Valley of the Sun",
+        "mayor": "AghastBlock",
+        "founder": "AghastBlock",
+        "mapColorHexCode": "008b8b"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1651456541210,
+        "joinedNationAt": 1684813194603
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 157,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20971.030606077577,
+        "y": 71.0,
+        "z": -6310.373410366904
+    },
+    "home": {
+        "x": -1311,
+        "z": -395
+    },
+    "residents": [
+        "AghastBlock",
+        "2010MARS",
+        "Jo_Star"
+    ],
+    "ranks": {
+        "Councillor": [
+            "AghastBlock"
+        ],
+        "Builder": [
+            "AghastBlock"
+        ],
+        "Recruiter": [
+            "AghastBlock"
+        ],
+        "Police": [
+            "AghastBlock"
+        ],
+        "Tax-exempt": [
+            "AghastBlock"
+        ],
+        "Treasurer": [
+            "AghastBlock"
+        ]
+    },
+    "trusted": [
+        "Jo_Star",
+        "xBest_Name_Everx",
+        "AghastBlock"
+    ],
+    "outlaws": [
+        "DesertedPeople",
+        "Superior4kolk",
+        "8set",
+        "mudk2p",
+        "BillowySplash5",
+        "GOATfromNEPAL",
+        "OnlyPico",
+        "THEF2PN00B",
+        "kosticc",
+        "Superior_Days93",
+        "suspicious1027",
+        "JoeGuyy",
+        "cowilo",
+        "aMopu",
+        "Dragonlilskib"
+    ]
+}

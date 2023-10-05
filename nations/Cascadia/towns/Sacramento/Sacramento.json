@@ -1,0 +1,101 @@
+{
+    "strings": {
+        "town": "Sacramento",
+        "board": "We Gotss ALOT of Rabbits .-.",
+        "mayor": "Hersheylr",
+        "founder": "Hersheylr",
+        "mapColorHexCode": "000000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1686932449040,
+        "joinedNationAt": 1686932578345
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 51,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 18.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": true,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": true,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": true,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": true,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22263.7591246076,
+        "y": 108.0,
+        "z": -7928.249594155679
+    },
+    "home": {
+        "x": -1392,
+        "z": -496
+    },
+    "residents": [
+        "Hersheylr",
+        "metas3",
+        "Sadiowa32",
+        "Tharxzz"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [
+            "Hersheylr"
+        ],
+        "Treasurer": []
+    },
+    "trusted": [
+        "PaperLemur12140",
+        "KrackKocaine",
+        "ApeChops"
+    ],
+    "outlaws": [
+        "Superior_Days93",
+        "42Forest",
+        "nachoman267",
+        "Paradox_1080",
+        "3llies"
+    ]
+}

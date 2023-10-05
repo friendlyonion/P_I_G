@@ -1,0 +1,105 @@
+{
+    "strings": {
+        "town": "Portland",
+        "board": "Stumptown",
+        "mayor": "Yellowcar1954",
+        "founder": "Yellowcar1954",
+        "mapColorHexCode": "add8e6"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1652498317247,
+        "joinedNationAt": 1669861267413
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 143,
+        "maxTownBlocks": 184,
+        "numResidents": 13,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22831.855068018805,
+        "y": 66.0,
+        "z": -8528.69500834682
+    },
+    "home": {
+        "x": -1427,
+        "z": -534
+    },
+    "residents": [
+        "Yellowcar1954",
+        "SMAWarrior",
+        "cericks",
+        "cerealthemilk",
+        "not_DaCar",
+        "JibletCat",
+        "Coyev",
+        "Novagamer75",
+        "jochito09",
+        "Coolloser2I",
+        "MinorToasts",
+        "prettyokayolivia",
+        "PapaFalafel1"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Yellowcar1954"
+        ],
+        "Builder": [
+            "SMAWarrior"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "SMAWarrior",
+        "Yellowcar1954"
+    ],
+    "outlaws": []
+}

@@ -1,0 +1,105 @@
+{
+    "strings": {
+        "town": "Mt._Baker",
+        "board": "Welcome to Mount Baker! Stay safe! and keep an eye out for hunters!",
+        "mayor": "Sumthan_buub",
+        "founder": "Sumthan_buub",
+        "mapColorHexCode": "f0e68c"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1688169159070,
+        "joinedNationAt": 1688169352647
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 30,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 7.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22584.443248624244,
+        "y": 101.0,
+        "z": -9273.53184058686
+    },
+    "home": {
+        "x": -1412,
+        "z": -580
+    },
+    "residents": [
+        "Sumthan_buub",
+        "mrbellic",
+        "Magikarp_Gamer",
+        "tom_mct"
+    ],
+    "ranks": {
+        "Councillor": [
+            "mrbellic",
+            "tom_mct"
+        ],
+        "Builder": [
+            "mrbellic",
+            "Magikarp_Gamer",
+            "tom_mct"
+        ],
+        "Recruiter": [
+            "Magikarp_Gamer"
+        ],
+        "Police": [
+            "mrbellic",
+            "Magikarp_Gamer"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "mrbellic",
+            "Magikarp_Gamer",
+            "tom_mct"
+        ]
+    },
+    "trusted": [],
+    "outlaws": []
+}

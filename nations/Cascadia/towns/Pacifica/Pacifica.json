@@ -1,0 +1,107 @@
+{
+    "outlaws": [
+        "OmeiBey",
+        "Judebricks",
+        "Mopugose12",
+        "kosticc"
+    ],
+    "spawn": {
+        "x": -23176.01495121802,
+        "y": 64,
+        "z": -8118.515575328343
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [
+            "EweesGaming"
+        ],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": [
+            "EweesGaming"
+        ]
+    },
+    "strings": {
+        "mapColorHexCode": "a9a9a9",
+        "town": "Pacifica",
+        "mayor": "Fr0z3nW1nt3r",
+        "founder": "DaPigThatBig",
+        "board": "Join our discord! UegASdGZ"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 11,
+        "balance": 47,
+        "maxTownBlocks": 168,
+        "numTownBlocks": 474
+    },
+    "trusted": [
+        "DaCorgoKing"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1685583277689,
+        "registered": 1665320068532
+    },
+    "residents": [
+        "Fr0z3nW1nt3r",
+        "EweesGaming",
+        "ironjayy",
+        "Stefietare09",
+        "Puppet20098",
+        "FunkTheMonkz",
+        "rocker11012009",
+        "HairballHacker10",
+        "Lelarxos",
+        "JAyJayzeee",
+        "Some_Kitten2"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": true
+    },
+    "home": {
+        "x": -1449,
+        "z": -508
+    }
+}

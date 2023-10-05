@@ -1,0 +1,95 @@
+{
+    "strings": {
+        "town": "Freedom_Town",
+        "board": "/town set board [msg]",
+        "mayor": "BullfrogProphet",
+        "founder": "BullfrogProphet",
+        "mapColorHexCode": "000000"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1684454509676,
+        "joinedNationAt": 1687577824042
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 93,
+        "maxTownBlocks": 84,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20419.264487094017,
+        "y": 114.0,
+        "z": -11252.358226796096
+    },
+    "home": {
+        "x": -1277,
+        "z": -704
+    },
+    "residents": [
+        "BullfrogProphet",
+        "vintagedreams",
+        "PenguinBlanket"
+    ],
+    "ranks": {
+        "Councillor": [
+            "vintagedreams"
+        ],
+        "Builder": [
+            "vintagedreams",
+            "PenguinBlanket"
+        ],
+        "Recruiter": [],
+        "Police": [
+            "vintagedreams"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

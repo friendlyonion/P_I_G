@@ -1,0 +1,132 @@
+{
+    "strings": {
+        "town": "Seattle",
+        "board": "Emerald of the West",
+        "mayor": "Milgorn123",
+        "founder": "Milgorn123",
+        "mapColorHexCode": "4b0082"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1683635989822,
+        "joinedNationAt": 1691278834766
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 368,
+        "maxTownBlocks": 304,
+        "numResidents": 28,
+        "balance": 4628.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22792.004728062464,
+        "y": 65.0625,
+        "z": -8987.90326089016
+    },
+    "home": {
+        "x": -1425,
+        "z": -562
+    },
+    "residents": [
+        "Milgorn123",
+        "U_SmOkInG_D",
+        "kzokhy",
+        "Madsnowz",
+        "SkyHarbinger",
+        "1Bloom",
+        "Theturky",
+        "Tomkilly",
+        "HSRdotCOM",
+        "KabouterMilan",
+        "uvinous",
+        "JJ_Stampy",
+        "Sparkwyrm",
+        "Iamverystupid123",
+        "subtopencylyt",
+        "SlimeCraaft",
+        "Av3NNiK",
+        "icegoat84",
+        "Elephantstrunk",
+        "Puppet20098",
+        "ssuburban",
+        "GGxGiraffe",
+        "ColonelPower",
+        "StayTrippinOTX",
+        "KnockoutCat9360",
+        "PlateNoise",
+        "Natural_Iron",
+        "TypicalKing57"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "DaCorgoKing",
+        "SayerQT",
+        "EstiQT",
+        "Milgorn123"
+    ],
+    "outlaws": [
+        "PatchieQc",
+        "Moxies_hoe",
+        "aMopu",
+        "Mr_MemeLord",
+        "sexycreeper",
+        "BonArc",
+        "Ovoud",
+        "TheTriangleDude",
+        "ucne",
+        "Bordaberry",
+        "Superior_Days93",
+        "CheatoClient",
+        "Jw0olf"
+    ]
+}

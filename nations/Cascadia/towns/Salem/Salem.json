@@ -1,0 +1,103 @@
+{
+    "strings": {
+        "town": "Salem",
+        "board": "The Lost City of Salem",
+        "mayor": "Seiviicx",
+        "founder": "Arathorn52",
+        "mapColorHexCode": "9932cc"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1652492177098,
+        "joinedNationAt": 1685015841596
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 150,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22744.88426819921,
+        "y": 66.0,
+        "z": -8516.46416423453
+    },
+    "home": {
+        "x": -1422,
+        "z": -533
+    },
+    "residents": [
+        "Seiviicx",
+        "SimpleyStubid",
+        "_OtodusMegalodon"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "GodSpeedRunner",
+        "DaPigThatBig",
+        "illinformed",
+        "Bachinuni",
+        "EstiQT",
+        "Mole_",
+        "ViolentVampire",
+        "Milgorn123"
+    ],
+    "outlaws": [
+        "DEMON_Lodos",
+        "Nightoria",
+        "kosticc",
+        "Moxies_hoe",
+        "ucne"
+    ]
+}

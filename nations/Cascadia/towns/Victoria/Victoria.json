@@ -1,0 +1,109 @@
+{
+    "strings": {
+        "town": "Victoria",
+        "board": "Semper Liber!",
+        "mayor": "EstiQT",
+        "founder": "LunarCats1544",
+        "mapColorHexCode": "9400d3"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1651457766975,
+        "joinedNationAt": 1667782900833
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 415,
+        "maxTownBlocks": 152,
+        "numResidents": 9,
+        "balance": 95.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23008.928020660955,
+        "y": 64.0,
+        "z": -9092.007651507127
+    },
+    "home": {
+        "x": -1439,
+        "z": -569
+    },
+    "residents": [
+        "Jhonayhmo",
+        "EpicMan2B",
+        "BrussellRussell",
+        "siennaq",
+        "Whatthedogdoin2",
+        "EstiQT",
+        "Captain_Mango_",
+        "abbbyyyyy",
+        "Razzle_Berry19"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "Jhonayhmo"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "TylenolEC",
+        "EstiQT"
+    ],
+    "outlaws": [
+        "DEMON_Lodos",
+        "Batu8747",
+        "kasana2007",
+        "kasana20O6",
+        "Judebricks",
+        "FroyourFilms",
+        "aMopu",
+        "ShroomGoddess",
+        "Superior_Days93"
+    ]
+}

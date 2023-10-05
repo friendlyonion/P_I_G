@@ -1,0 +1,91 @@
+{
+    "strings": {
+        "town": "Arsburg",
+        "board": "Please read daily Adgenda at Town Hall!!!",
+        "mayor": "justino13",
+        "founder": "Mooface27686",
+        "mapColorHexCode": "8b008b"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1681261938624,
+        "joinedNationAt": 1690943645851
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 31,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 14.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22615.928491577197,
+        "y": 76.0,
+        "z": -9524.31678782189
+    },
+    "home": {
+        "x": -1414,
+        "z": -596
+    },
+    "residents": [
+        "justino13",
+        "Sayzio_"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "M0lto_R1t3rdando",
+        "8set",
+        "BillowySplash5"
+    ],
+    "outlaws": []
+}

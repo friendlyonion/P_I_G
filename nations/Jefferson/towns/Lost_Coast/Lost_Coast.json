@@ -1,0 +1,106 @@
+{
+    "strings": {
+        "town": "Lost_Coast",
+        "board": "City of Blue Tile",
+        "mayor": "OoOoLaLa",
+        "founder": "anndysreverie",
+        "mapColorHexCode": "ffb6c1"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1672709792423,
+        "joinedNationAt": 1687688036662
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 248,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23125.405259973333,
+        "y": 64.9375,
+        "z": -7695.986030531056
+    },
+    "home": {
+        "x": -1446,
+        "z": -481
+    },
+    "residents": [
+        "clubby20",
+        "clickinspree",
+        "OoOoLaLa",
+        "Broster98",
+        "sirthepugz567"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "42Forest"
+    ],
+    "outlaws": [
+        "Alemakko",
+        "MaidenIron",
+        "Ushkaa",
+        "A1KK",
+        "PeterPeter5000",
+        "Tudorica_372",
+        "Quift_",
+        "Im_Not_Uri",
+        "nixps",
+        "BillowySplash5",
+        "kasana6969",
+        "jimavramas",
+        "Clown_Ananas"
+    ]
+}

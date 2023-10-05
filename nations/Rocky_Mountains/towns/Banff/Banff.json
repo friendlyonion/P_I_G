@@ -1,0 +1,91 @@
+{
+    "strings": {
+        "town": "Banff",
+        "board": "In memory of Theodore John Kaczynski 1942 - 2023",
+        "mayor": "M0lto_R1t3rdando",
+        "founder": "M0lto_R1t3rdando",
+        "mapColorHexCode": "add8e6"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1686032920646,
+        "joinedNationAt": 1686033101795
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 14,
+        "maxTownBlocks": 76,
+        "numResidents": 2,
+        "balance": 4.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21880.469799848786,
+        "y": 127.0,
+        "z": -9770.579987993517
+    },
+    "home": {
+        "x": -1368,
+        "z": -611
+    },
+    "residents": [
+        "M0lto_R1t3rdando",
+        "whaleman_2"
+    ],
+    "ranks": {
+        "Councillor": [
+            "whaleman_2"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "_rmf"
+    ],
+    "outlaws": []
+}

@@ -1,0 +1,104 @@
+{
+    "strings": {
+        "town": "frog",
+        "board": "ribbit",
+        "mayor": "moggs",
+        "founder": "mogsii",
+        "mapColorHexCode": "9932cc"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1683491525763,
+        "joinedNationAt": 1692140366047
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 109,
+        "maxTownBlocks": 100,
+        "numResidents": 5,
+        "balance": 15.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -19970.933682150164,
+        "y": 80.0,
+        "z": -9534.449768157521
+    },
+    "home": {
+        "x": -1249,
+        "z": -596
+    },
+    "residents": [
+        "ElonYT",
+        "inoracam3",
+        "JONYTG",
+        "Boergeiam",
+        "moggs"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Mobius_Bacon",
+        "Akeboun",
+        "AvaMavis",
+        "RealLIMPOPO",
+        "Beamz30",
+        "WrestlingWithGod",
+        "Boergeiam",
+        "KrackKocaine",
+        "moggs"
+    ],
+    "outlaws": [
+        "aMopu",
+        "not_ewhy",
+        "Cabbstiny"
+    ]
+}

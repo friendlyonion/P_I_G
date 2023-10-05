@@ -1,0 +1,88 @@
+{
+    "outlaws": [
+        "HenryVIIArmor"
+    ],
+    "spawn": {
+        "x": -21624.46427507865,
+        "y": 90,
+        "z": -10231.48144164289
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "90ee90",
+        "town": "Ballstown",
+        "mayor": "Sh1ft3R_",
+        "founder": "Sh1ft3R_",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 115,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 10
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1683867050539,
+        "registered": 1683845916908
+    },
+    "residents": [
+        "Sh1ft3R_"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1352,
+        "z": -640
+    }
+}

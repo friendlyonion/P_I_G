@@ -1,0 +1,90 @@
+{
+    "strings": {
+        "town": "Umatilla_County",
+        "board": "Stream AT THIS VELOCITY by Thursday",
+        "mayor": "Kombolizmo",
+        "founder": "Rocksthunder",
+        "mapColorHexCode": "556b2f"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1685040307310,
+        "joinedNationAt": 1685414940045
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 49,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21990.998675199367,
+        "y": 90.0,
+        "z": -8429.179198584363
+    },
+    "home": {
+        "x": -1375,
+        "z": -527
+    },
+    "residents": [
+        "Kombolizmo",
+        "Holden66"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "SkittlesFairy",
+        "42Forest"
+    ],
+    "outlaws": []
+}

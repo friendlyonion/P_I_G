@@ -1,0 +1,88 @@
+{
+    "strings": {
+        "town": "Camp_Half-Blood",
+        "board": "/town set board [msg]",
+        "mayor": "SmashingSage",
+        "founder": "SmashingSage",
+        "mapColorHexCode": "8b0000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1684895565156,
+        "joinedNationAt": 1691981307654
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 98,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 32.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20489.467887028663,
+        "y": 76.0,
+        "z": -11047.683366426238
+    },
+    "home": {
+        "x": -1281,
+        "z": -691
+    },
+    "residents": [
+        "SmashingSage"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "MrsMeowstache"
+    ],
+    "outlaws": []
+}

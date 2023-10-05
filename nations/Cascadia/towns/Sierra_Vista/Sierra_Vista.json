@@ -1,0 +1,161 @@
+{
+    "strings": {
+        "town": "Sierra_Vista",
+        "board": "Sierra Vista",
+        "mayor": "YoOscar",
+        "founder": "YoOscar",
+        "mapColorHexCode": "ff8c00"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1674102760419,
+        "joinedNationAt": 1682119817124
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 499,
+        "maxTownBlocks": 528,
+        "numResidents": 56,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20712.525078197483,
+        "y": 100.0,
+        "z": -6199.410642921964
+    },
+    "home": {
+        "x": -1295,
+        "z": -388
+    },
+    "residents": [
+        "YoOscar",
+        "computergeekpete",
+        "CanTheSoup",
+        "PumkinTheBeast45",
+        "Whlte_Rose",
+        "TheManHimself27",
+        "CraftyEvan",
+        "TheMasterAb9",
+        "Immense_Catch",
+        "Cobhthaig",
+        "Wakanaro",
+        "KrackafydKam",
+        "kerem736",
+        "Ethymios",
+        "Mr_Korz",
+        "ikyvzx",
+        "Rhino774405",
+        "Lfcolly1324",
+        "CrashBuckle2348",
+        "Nexus552",
+        "Andy_Moura",
+        "Nauhaan2013",
+        "Fabi_VL",
+        "zachattack2411",
+        "IgiGeek",
+        "Not_WarLockedYT",
+        "xSpiky7x",
+        "Infisrael",
+        "Karijuana",
+        "TDBTitan02",
+        "WackyDucky2012",
+        "DanguA1C",
+        "FallYun",
+        "Llamaboy209",
+        "LiviMotchi",
+        "rainkid337",
+        "Dogo1324",
+        "kozmikoz",
+        "PunctualTrash78",
+        "EDEN1127",
+        "Bobasafk3",
+        "PhantomXYZ_",
+        "Sergeant_Savage",
+        "AetherStarborn",
+        "yourboicloud",
+        "koljin_",
+        "SkyGator48",
+        "ottodogx",
+        "JustSamBoy",
+        "NoWayItsFrost",
+        "Dahliasgone",
+        "HerTs_",
+        "RandomDude001",
+        "MFReedian",
+        "Merijnwp",
+        "BrexitDeal"
+    ],
+    "ranks": {
+        "Councillor": [
+            "LiviMotchi"
+        ],
+        "Builder": [
+            "PhantomXYZ_"
+        ],
+        "Recruiter": [
+            "PhantomXYZ_"
+        ],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "PhantomXYZ_"
+        ]
+    },
+    "trusted": [
+        "LiviMotchi"
+    ],
+    "outlaws": [
+        "aMopu",
+        "BlueYoder1995",
+        "Zyxmt",
+        "sexycreeper",
+        "Kori_StanYT",
+        "Oya3rdLight",
+        "SteelCove",
+        "theoryofawesome_",
+        "EndorsedBird"
+    ]
+}

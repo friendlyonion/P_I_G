@@ -1,0 +1,97 @@
+{
+    "strings": {
+        "town": "Fort_Elko",
+        "board": "/town set board [msg]",
+        "mayor": "CoderHarris",
+        "founder": "CoderHarris",
+        "mapColorHexCode": "ffffe0"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1686814534397,
+        "joinedNationAt": 1687688188985
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 24,
+        "maxTownBlocks": 84,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21982.69999998808,
+        "y": 100.0,
+        "z": -7806.699999988079
+    },
+    "home": {
+        "x": -1374,
+        "z": -488
+    },
+    "residents": [
+        "DScomputergenius",
+        "Cinamon_rolls",
+        "CoderHarris"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Cinamon_rolls"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "NotMakarov",
+        "CoderHarris",
+        "42Forest"
+    ],
+    "outlaws": [
+        "Unbated",
+        "42Ham"
+    ]
+}

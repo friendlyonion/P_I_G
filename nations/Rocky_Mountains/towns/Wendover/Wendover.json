@@ -1,0 +1,101 @@
+{
+    "strings": {
+        "town": "Wendover",
+        "board": "/town set board [msg]",
+        "mayor": "Allenlol9439",
+        "founder": "Allenlol9439",
+        "mapColorHexCode": "bdb76b"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1689472738832,
+        "joinedNationAt": 1689475270754
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 11,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21815.92859940342,
+        "y": 102.0,
+        "z": -7955.699999988079
+    },
+    "home": {
+        "x": -1364,
+        "z": -498
+    },
+    "residents": [
+        "Allenlol9439",
+        "isaisaucedo",
+        "JlunaPlays",
+        "Zalcus_",
+        "AmpleLemming88"
+    ],
+    "ranks": {
+        "Councillor": [
+            "JlunaPlays",
+            "Zalcus_",
+            "AmpleLemming88"
+        ],
+        "Builder": [
+            "isaisaucedo",
+            "JlunaPlays",
+            "Zalcus_",
+            "AmpleLemming88"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [
+            "isaisaucedo"
+        ],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

@@ -1,0 +1,93 @@
+{
+    "strings": {
+        "town": "lake_mukip",
+        "board": "",
+        "mayor": "Nephi_UwU_oWo",
+        "founder": "mudk2p",
+        "mapColorHexCode": "8b008b"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1679104730835,
+        "joinedNationAt": 1691722585001
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 36,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22505.422733391068,
+        "y": 91.0,
+        "z": -10256.621641181264
+    },
+    "home": {
+        "x": -1407,
+        "z": -642
+    },
+    "residents": [
+        "Nephi_UwU_oWo"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "UhhRose",
+        "Alucart",
+        "8set",
+        "KARN4",
+        "BillowySplash5",
+        "Flatvent_One"
+    ],
+    "outlaws": []
+}

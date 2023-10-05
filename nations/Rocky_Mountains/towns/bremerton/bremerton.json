@@ -1,0 +1,103 @@
+{
+    "strings": {
+        "town": "bremerton",
+        "board": "/town set board [msg]",
+        "mayor": "GOATfromNEPAL",
+        "founder": "UnwishedBird218",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1684473183442,
+        "joinedNationAt": 1684473206783
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 17,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": true,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22888.69999998808,
+        "y": 65.0,
+        "z": -8921.516665660201
+    },
+    "home": {
+        "x": -1431,
+        "z": -558
+    },
+    "residents": [
+        "GOATfromNEPAL"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "obamaiscool420",
+        "Superior_Days93",
+        "kasana2003",
+        "DubsrVSF",
+        "_WeirdGuy",
+        "mudk2p",
+        "OnlyPico",
+        "5set",
+        "BillowySplash5",
+        "cowilo",
+        "8set",
+        "Ovoud",
+        "InceptionKeeper",
+        "Kloton",
+        "Payton0723",
+        "sugar_79"
+    ],
+    "outlaws": []
+}

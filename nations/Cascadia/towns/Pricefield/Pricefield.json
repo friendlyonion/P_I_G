@@ -1,0 +1,89 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -22583.198282922433,
+        "y": 103,
+        "z": -8030.681495776875
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [
+            "Cecioru"
+        ],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "ff00ff",
+        "town": "Pricefield",
+        "mayor": "SWrebelMC",
+        "founder": "SWrebelMC",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 2,
+        "balance": 5,
+        "maxTownBlocks": 96,
+        "numTownBlocks": 26
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1681266622453,
+        "registered": 1681266246794
+    },
+    "residents": [
+        "SWrebelMC",
+        "Cecioru"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1412,
+        "z": -502
+    }
+}

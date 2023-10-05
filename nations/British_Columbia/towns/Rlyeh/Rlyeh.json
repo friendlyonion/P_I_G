@@ -1,0 +1,90 @@
+{
+    "strings": {
+        "town": "Rlyeh",
+        "board": "Defender of the Sea",
+        "mayor": "Penguin_Lite_",
+        "founder": "Penguin_Lite_",
+        "mapColorHexCode": "d3d3d3"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1689128411120,
+        "joinedNationAt": 1689128954946
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 5,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -24808.633566500393,
+        "y": 27.0,
+        "z": -8153.645330802253
+    },
+    "home": {
+        "x": -1551,
+        "z": -510
+    },
+    "residents": [
+        "Penguin_Lite_",
+        "chrispy62",
+        "q_pz"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Moretsu_Na_Kami"
+    ],
+    "outlaws": []
+}

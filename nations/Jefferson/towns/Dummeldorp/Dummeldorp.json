@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Dummeldorp",
+        "board": "hello",
+        "mayor": "tomatillo1",
+        "founder": "tomatillo1",
+        "mapColorHexCode": "006400"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1688180709694,
+        "joinedNationAt": 1690590794283
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 74,
+        "maxTownBlocks": 136,
+        "numResidents": 7,
+        "balance": 242.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22554.983796360088,
+        "y": 102.0625,
+        "z": -7747.857870256935
+    },
+    "home": {
+        "x": -1410,
+        "z": -485
+    },
+    "residents": [
+        "tomatillo1",
+        "Thicc_",
+        "NedragonJunior",
+        "Ak1shha",
+        "Evilst",
+        "burnpoptart",
+        "LoganJhmia"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

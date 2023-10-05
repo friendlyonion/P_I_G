@@ -1,0 +1,90 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -24808.633566500393,
+        "y": 27,
+        "z": -8153.645330802253
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "d3d3d3",
+        "town": "Rlyeh",
+        "mayor": "Penguin_Lite_",
+        "founder": "Penguin_Lite_",
+        "board": "Defender of the Sea"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 3,
+        "balance": 0,
+        "maxTownBlocks": 104,
+        "numTownBlocks": 5
+    },
+    "trusted": [
+        "Moretsu_Na_Kami"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1689128954946,
+        "registered": 1689128411120
+    },
+    "residents": [
+        "Penguin_Lite_",
+        "chrispy62",
+        "q_pz"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1551,
+        "z": -510
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "strings": {
+        "town": "Colchester",
+        "board": "/town set board [msg]",
+        "mayor": "deathlife23",
+        "founder": "deathlife23",
+        "mapColorHexCode": "ffd700"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1692919424389,
+        "joinedNationAt": 1692919597593
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 9,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": true,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21718.903296641573,
+        "y": 93.0,
+        "z": -9945.192957442345
+    },
+    "home": {
+        "x": -1358,
+        "z": -622
+    },
+    "residents": [
+        "deathlife23",
+        "S1rYoshi",
+        "afroLegoBlack",
+        "TribeOwner"
+    ],
+    "ranks": {
+        "Councillor": [
+            "S1rYoshi"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "mahomeyfan15"
+    ],
+    "outlaws": [
+        "Superior_Days93",
+        "rswld",
+        "LionelCagdaSS",
+        "Finnerwinner12",
+        "OnlyPico",
+        "aMopu"
+    ]
+}

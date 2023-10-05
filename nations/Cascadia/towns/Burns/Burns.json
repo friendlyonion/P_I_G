@@ -1,0 +1,102 @@
+{
+    "strings": {
+        "town": "Burns",
+        "board": "Hello!",
+        "mayor": "BlueBlock88",
+        "founder": "BlueBlock88",
+        "mapColorHexCode": "f5f5dc"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1669097128744,
+        "joinedNationAt": 1670109707506
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 99,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 20.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22250.77453134091,
+        "y": 101.0,
+        "z": -8203.820503188581
+    },
+    "home": {
+        "x": -1391,
+        "z": -513
+    },
+    "residents": [
+        "BlueBlock88",
+        "CTomen2011",
+        "enlillebror"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Judebricks",
+        "DaCorgoKing",
+        "EstiQT",
+        "WrestlingWithGod",
+        "Blu_Zebra"
+    ],
+    "outlaws": [
+        "Ave2k",
+        "DEMON_Lodos",
+        "ManofWarfare",
+        "Judebricks",
+        "kasana2003",
+        "X1_zephyr_X1",
+        "Superior_Days93"
+    ]
+}

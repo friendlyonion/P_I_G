@@ -1,0 +1,88 @@
+{
+    "strings": {
+        "town": "cool_island",
+        "board": "/town set board [msg]",
+        "mayor": "szn2",
+        "founder": "szn2",
+        "mapColorHexCode": "ffff00"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1674602874109,
+        "joinedNationAt": 1686262739069
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 51,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 6.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -24999.46361067591,
+        "y": 74.0,
+        "z": -10779.818475176316
+    },
+    "home": {
+        "x": -1563,
+        "z": -674
+    },
+    "residents": [
+        "szn2"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Vortex420"
+    ],
+    "outlaws": []
+}

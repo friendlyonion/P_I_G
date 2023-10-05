@@ -1,0 +1,104 @@
+{
+    "strings": {
+        "town": "Kalispell",
+        "board": "Welcome Back!",
+        "mayor": "KrackKocaine",
+        "founder": "TheTrueCrimson",
+        "mapColorHexCode": "0000ff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1668988270385,
+        "joinedNationAt": 1668988297828
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 53,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 9.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20120.35491715503,
+        "y": 82.0,
+        "z": -9175.666744636186
+    },
+    "home": {
+        "x": -1258,
+        "z": -574
+    },
+    "residents": [
+        "R_ienz",
+        "TheReconUnit",
+        "KrackKocaine",
+        "TONYDENALIGAMING"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Eazy__Z",
+        "KARN4",
+        "WrestlingWithGod",
+        "TheReconUnit",
+        "CriminalRiot",
+        "R_ienz",
+        "Beamz30"
+    ],
+    "outlaws": [
+        "OmeiBey",
+        "Karrw",
+        "DEMON_Lodos",
+        "Bobkavitsu",
+        "girlygirlerwin",
+        "mhuzeyfey"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Jericho_Ranch",
+        "board": "Home of the Frontiersmen",
+        "mayor": "Akeboun",
+        "founder": "DrakeypantsYT",
+        "mapColorHexCode": "ffa500"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1667669937523,
+        "joinedNationAt": 1678106237663
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 132,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 2.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -19975.997057227596,
+        "y": 81.0,
+        "z": -9129.970355592746
+    },
+    "home": {
+        "x": -1249,
+        "z": -571
+    },
+    "residents": [
+        "Akeboun"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "WrestlingWithGod"
+    ],
+    "outlaws": [
+        "8set",
+        "mudk2p",
+        "BillowySplash5"
+    ]
+}

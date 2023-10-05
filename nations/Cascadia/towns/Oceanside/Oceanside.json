@@ -1,0 +1,106 @@
+{
+    "strings": {
+        "town": "Oceanside",
+        "board": "/town set board [msg]",
+        "mayor": "Paradox_1080",
+        "founder": "EstiQT",
+        "mapColorHexCode": "00ff00"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1688370385836,
+        "joinedNationAt": 1688370397254
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 147,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 40.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23143.555711159082,
+        "y": 63.0,
+        "z": -8403.044825984263
+    },
+    "home": {
+        "x": -1447,
+        "z": -526
+    },
+    "residents": [
+        "Paradox_1080"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Paradox_1080"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "BearhugBuddha",
+        "DaCorgoKing",
+        "Sylxgravt",
+        "illinformed",
+        "KrackKocaine",
+        "DaPigThatBig",
+        "Paradox_1080",
+        "Setrus",
+        "SayerQT",
+        "Bachinuni",
+        "EstiQT",
+        "RealLIMPOPO",
+        "WrestlingWithGod",
+        "ViolentVampire",
+        "Milgorn123"
+    ],
+    "outlaws": [
+        "Jw0olf"
+    ]
+}

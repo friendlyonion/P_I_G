@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Frog_Rock",
+        "board": "/town set board [msg]",
+        "mayor": "Beamz30",
+        "founder": "Beamz30",
+        "mapColorHexCode": "808000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1692140275772,
+        "joinedNationAt": 1692140286781
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 89,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 4.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20120.6839524844,
+        "y": 79.0,
+        "z": -8939.681217456948
+    },
+    "home": {
+        "x": -1258,
+        "z": -559
+    },
+    "residents": [
+        "Beamz30",
+        "GoobertDoo"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "WrestlingWithGod",
+        "moggs"
+    ],
+    "outlaws": [
+        "Superior_Days93"
+    ]
+}

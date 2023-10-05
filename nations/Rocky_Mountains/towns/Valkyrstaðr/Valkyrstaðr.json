@@ -1,0 +1,91 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -21880.469799848786,
+        "y": 127,
+        "z": -9770.579987993517
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [
+            "whaleman_2",
+            "Flumpky"
+        ],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "add8e6",
+        "town": "Valkyrstaðr",
+        "mayor": "M0lto_R1t3rdando",
+        "founder": "M0lto_R1t3rdando",
+        "board": "In memory of Theodore John Kaczynski 1942 - 2023"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 3,
+        "balance": 8,
+        "maxTownBlocks": 104,
+        "numTownBlocks": 11
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1686033101795,
+        "registered": 1686032920646
+    },
+    "residents": [
+        "M0lto_R1t3rdando",
+        "whaleman_2",
+        "Flumpky"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1368,
+        "z": -611
+    }
+}

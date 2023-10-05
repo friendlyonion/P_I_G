@@ -1,0 +1,99 @@
+{
+    "strings": {
+        "town": "District_2",
+        "board": "GANG",
+        "mayor": "AvaMavis",
+        "founder": "BillowySplash5",
+        "mapColorHexCode": "ffffe0"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1679103875901,
+        "joinedNationAt": 1691725303838
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 122,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22467.95436338278,
+        "y": 113.0,
+        "z": -9940.578526235864
+    },
+    "home": {
+        "x": -1405,
+        "z": -622
+    },
+    "residents": [
+        "KingVarin",
+        "BlueYoder1995",
+        "AvaMavis"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "moggs"
+    ],
+    "outlaws": [
+        "cheeseballfluffy",
+        "Only_YouTube",
+        "Akeboun",
+        "Bachinuni",
+        "globemail",
+        "MC_Steel",
+        "JitBlippin",
+        "IceyOnYT"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "strings": {
+        "town": "chiefs_kingdom",
+        "board": "/town set board [msg]",
+        "mayor": "mahomeyfan15",
+        "founder": "mahomeyfan15",
+        "mapColorHexCode": "008000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1691180350591,
+        "joinedNationAt": 1692830593441
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 11,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22777.7222702524,
+        "y": 86.0,
+        "z": -11237.598434187554
+    },
+    "home": {
+        "x": -1424,
+        "z": -703
+    },
+    "residents": [
+        "mahomeyfan15",
+        "GrayNerdL",
+        "Bwolf6",
+        "Lemongamerchess"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "TypicalKing57",
+        "RuffWoof",
+        "DaCorgoKing",
+        "PaperLemur12140",
+        "Beamz30",
+        "Bwolf6",
+        "SergioTheCrafter",
+        "ApeChops",
+        "Milgorn123",
+        "deathlife23"
+    ],
+    "outlaws": [
+        "Jw0olf"
+    ]
+}

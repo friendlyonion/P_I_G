@@ -1,0 +1,182 @@
+{
+    "strings": {
+        "town": "New_Amsterdam",
+        "board": "Enjoy",
+        "mayor": "TylenolEC",
+        "founder": "ImNotAura",
+        "mapColorHexCode": "4b0082"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1668895419669,
+        "joinedNationAt": 1668895456679
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": true,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 192,
+        "maxTownBlocks": 460,
+        "numResidents": 50,
+        "balance": 13.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -12823.97874929453,
+        "y": 68.0,
+        "z": -10898.265055302763
+    },
+    "home": {
+        "x": -802,
+        "z": -682
+    },
+    "residents": [
+        "TylenolEC",
+        "Corthey",
+        "PhillipNH",
+        "C4lm_ee",
+        "LilBrrama",
+        "DieNow",
+        "SchmerzUndLeid",
+        "RavioliMacioli",
+        "_trebor_",
+        "Charlie1214",
+        "kaykygarry",
+        "FalconBlock2021",
+        "chriseatsmud",
+        "Samosamic",
+        "ReaLeawn",
+        "RallyeJenson__",
+        "Nicholas_Exists",
+        "AlexPlayerGr",
+        "yhoaaa",
+        "ousiahowl",
+        "RainbowJackzie",
+        "ilovelemon",
+        "HK_RedKirito_PVP",
+        "Skeleton324",
+        "Neiqht",
+        "EzraEthan79",
+        "EthanMangsiam72",
+        "astrzz",
+        "smftyc9q",
+        "Fl0xie0",
+        "Holden66",
+        "J0VE",
+        "xArkeon",
+        "PerennialWorld",
+        "LilGreenie00",
+        "NotBrownie",
+        "ImTnks",
+        "Thebeast217214",
+        "fortitudebin",
+        "IngenieroDe5",
+        "Bloker567",
+        "UnidentifiedP",
+        "CoffeeXYZ1412",
+        "Tenneee",
+        "Unseamedcape654",
+        "Stackedboy10000",
+        "TheSeriousGnome",
+        "Xaydagoat",
+        "Pigsley1109",
+        "AGQuad"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [
+            "RainbowJackzie"
+        ],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Luciiiuwu"
+    ],
+    "outlaws": [
+        "TurfyMonster30",
+        "quarox777",
+        "Gazoobas",
+        "RRYCER",
+        "DEMON_Lodos",
+        "mark213",
+        "Superior_Days93",
+        "kasana2009",
+        "Vantacrus",
+        "BillowySplash5",
+        "OnlyPico",
+        "ManofWarfare",
+        "Nightoria",
+        "Lady_Grim_",
+        "DuckRoyal",
+        "aMopu",
+        "EricDeViking",
+        "LiviMotchi",
+        "cowilo",
+        "Yuluoi",
+        "Fishie1",
+        "Saltiestspinach",
+        "Finnerwinner12",
+        "Evthepic",
+        "skittle_vodka",
+        "SAMSUNG_Note7",
+        "Sos_From_NZ",
+        "Frede",
+        "elohimjoeyyblade",
+        "yoshi403",
+        "BreadCannon",
+        "XDemonXBlockX",
+        "jammeeessss",
+        "ScFish15",
+        "Cosmoeater",
+        "JetteDoughboy",
+        "santrop3z",
+        "_Velocity_Yt",
+        "Uberstrase",
+        "Henricke",
+        "CheatoClient",
+        "Azlantheredman"
+    ]
+}

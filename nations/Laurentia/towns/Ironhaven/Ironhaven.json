@@ -1,0 +1,111 @@
+{
+    "strings": {
+        "town": "Ironhaven",
+        "board": "Welcome to Ironhaven!",
+        "mayor": "Sussy2023",
+        "founder": "Sussy2023",
+        "mapColorHexCode": "c0c0c0"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1690700215079,
+        "joinedNationAt": 1690700237450
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 55,
+        "maxTownBlocks": 156,
+        "numResidents": 12,
+        "balance": 19.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -13130.48708638905,
+        "y": 66.0,
+        "z": -10998.278652523999
+    },
+    "home": {
+        "x": -821,
+        "z": -688
+    },
+    "residents": [
+        "Sussy2023",
+        "ThommoMC",
+        "WaffleTRON_YT",
+        "EliTeBigBommer",
+        "Azuwur",
+        "CommanderX2013",
+        "satchamillion25",
+        "ChelbiBaby",
+        "ItsJustForFun",
+        "Hanally",
+        "CyberGeek420",
+        "Andoor2"
+    ],
+    "ranks": {
+        "Councillor": [
+            "WaffleTRON_YT"
+        ],
+        "Builder": [],
+        "Recruiter": [
+            "ThommoMC"
+        ],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "TylenolEC"
+    ],
+    "outlaws": [
+        "DuckRoyal",
+        "kasana20O6",
+        "Paigunicat",
+        "Evthepic",
+        "skittle_vodka",
+        "Sos_From_NZ",
+        "XDemonXBlockX"
+    ]
+}

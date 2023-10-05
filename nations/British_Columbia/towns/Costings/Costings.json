@@ -1,0 +1,101 @@
+{
+    "strings": {
+        "town": "Costings",
+        "board": "only for the biggest of big",
+        "mayor": "IceIsntDangerous",
+        "founder": "Iceisdangerous",
+        "mapColorHexCode": "ffffff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1689204689005,
+        "joinedNationAt": 1689204715643
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 34,
+        "maxTownBlocks": 144,
+        "numResidents": 8,
+        "balance": 55.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20892.472592908623,
+        "y": 82.0,
+        "z": -9792.588151273918
+    },
+    "home": {
+        "x": -1306,
+        "z": -613
+    },
+    "residents": [
+        "IceIsntDangerous",
+        "merkieEX",
+        "Jw0olf",
+        "Deoxto",
+        "TwiningTea",
+        "SamsonMakesBeats",
+        "rcoffin27",
+        "TopSTMT"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "moggs",
+        "WrestlingWithGod"
+    ],
+    "outlaws": [
+        "DADDYEastxx",
+        "BillowySplash5",
+        "fire_344",
+        "_WeirdGuy"
+    ]
+}

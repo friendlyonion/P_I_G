@@ -1,0 +1,86 @@
+{
+    "strings": {
+        "town": "Provos",
+        "board": "Welcome To Provos. Home of the Fianna",
+        "mayor": "Eazy__Z",
+        "founder": "Eazy__Z",
+        "mapColorHexCode": "800080"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1689858058911,
+        "joinedNationAt": 1689912055094
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 12,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 48.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22012.22268349146,
+        "y": 76.0,
+        "z": -10983.47758547577
+    },
+    "home": {
+        "x": -1376,
+        "z": -687
+    },
+    "residents": [
+        "Eazy__Z"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

@@ -1,0 +1,90 @@
+{
+    "strings": {
+        "town": "Pyramid_Lake",
+        "board": "[Jewel of the Great Basin]",
+        "mayor": "KangChub",
+        "founder": "KangChub",
+        "mapColorHexCode": "c0c0c0"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1679449996492,
+        "joinedNationAt": 1689811011906
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 47,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 136.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": true
+        }
+    },
+    "spawn": {
+        "x": -22314.844324301703,
+        "y": 94.5,
+        "z": -7522.300000011921
+    },
+    "home": {
+        "x": -1395,
+        "z": -471
+    },
+    "residents": [
+        "KangChub"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "ManofWarfare",
+        "Alemakko",
+        "Nexus___"
+    ]
+}

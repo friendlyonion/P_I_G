@@ -1,0 +1,86 @@
+{
+    "strings": {
+        "town": "BIG_BLACK_MEN",
+        "board": "/town set board [msg]",
+        "mayor": "_rmf",
+        "founder": "_rmf",
+        "mapColorHexCode": "9400d3"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1692152866646,
+        "joinedNationAt": 1692153222804
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 1,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 950.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -21816.02673831065,
+        "y": 128.0,
+        "z": -9704.007748977163
+    },
+    "home": {
+        "x": -1364,
+        "z": -607
+    },
+    "residents": [
+        "_rmf"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

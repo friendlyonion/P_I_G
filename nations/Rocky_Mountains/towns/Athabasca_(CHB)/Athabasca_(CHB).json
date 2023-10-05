@@ -1,0 +1,89 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -20489.467887028663,
+        "y": 76,
+        "z": -11047.683366426238
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "8b0000",
+        "town": "Athabasca_(CHB)",
+        "mayor": "SmashingSage",
+        "founder": "SmashingSage",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "stats": {
+        "numResidents": 2,
+        "balance": 0,
+        "maxTownBlocks": 96,
+        "numTownBlocks": 98
+    },
+    "trusted": [
+        "MrsMeowstache"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1684896189001,
+        "registered": 1684895565156
+    },
+    "residents": [
+        "SmashingSage",
+        "Dimentional_Mike"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": true
+    },
+    "home": {
+        "x": -1281,
+        "z": -691
+    }
+}

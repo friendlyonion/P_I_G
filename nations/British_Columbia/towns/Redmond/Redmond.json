@@ -1,0 +1,94 @@
+{
+    "strings": {
+        "town": "Redmond",
+        "board": "/town set board [msg]",
+        "mayor": "JONICK902",
+        "founder": "Big_C268",
+        "mapColorHexCode": "ffffff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1678048623047,
+        "joinedNationAt": 1678048638311
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 6,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22648.23962524242,
+        "y": 102.0,
+        "z": -8199.915284663351
+    },
+    "home": {
+        "x": -1416,
+        "z": -513
+    },
+    "residents": [
+        "JONICK902"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "JONICK902"
+        ],
+        "Recruiter": [
+            "JONICK902"
+        ],
+        "Police": [
+            "JONICK902"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": [
+            "JONICK902"
+        ]
+    },
+    "trusted": [],
+    "outlaws": []
+}

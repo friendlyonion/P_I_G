@@ -1,0 +1,105 @@
+{
+    "strings": {
+        "town": "Union_of_Kuvas",
+        "board": "/town set board [msg]",
+        "mayor": "squiddss",
+        "founder": "FireCupid",
+        "mapColorHexCode": "800000"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1689973859759,
+        "joinedNationAt": 1689974796506
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 4,
+        "maxTownBlocks": 26,
+        "numResidents": 2,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -12198.84588320693,
+        "y": 69.0,
+        "z": -11483.640233454918
+    },
+    "home": {
+        "x": -763,
+        "z": -718
+    },
+    "residents": [
+        "FireCupid",
+        "squiddss"
+    ],
+    "ranks": {
+        "Councillor": [
+            "FireCupid",
+            "squiddss"
+        ],
+        "Builder": [
+            "FireCupid",
+            "squiddss"
+        ],
+        "Recruiter": [
+            "FireCupid",
+            "squiddss"
+        ],
+        "Police": [
+            "FireCupid",
+            "squiddss"
+        ],
+        "Tax-exempt": [
+            "FireCupid",
+            "squiddss"
+        ],
+        "Treasurer": [
+            "FireCupid",
+            "squiddss"
+        ]
+    },
+    "trusted": [],
+    "outlaws": []
+}

@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Hermiston",
+        "board": "/town set board [msg]",
+        "mayor": "SergioTheCrafter",
+        "founder": "SergioTheCrafter",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1691430801568,
+        "joinedNationAt": 1692806294287
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 20,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22254.120970382868,
+        "y": 86.0,
+        "z": -8435.333206167334
+    },
+    "home": {
+        "x": -1391,
+        "z": -528
+    },
+    "residents": [
+        "SergioTheCrafter",
+        "LongThingsAreYum",
+        "thlrtyvirus"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "CheedarCheez"
+    ],
+    "outlaws": [
+        "Superior_Days93"
+    ]
+}

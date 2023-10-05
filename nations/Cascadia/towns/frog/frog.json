@@ -1,0 +1,110 @@
+{
+    "strings": {
+        "town": "frog",
+        "board": "ribbit",
+        "mayor": "Beamz30",
+        "founder": "mogsii",
+        "mapColorHexCode": "9932cc"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1683491525763,
+        "joinedNationAt": 1683491530730
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 100,
+        "maxTownBlocks": 144,
+        "numResidents": 8,
+        "balance": 121.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -19970.933682150164,
+        "y": 80.0,
+        "z": -9534.449768157521
+    },
+    "home": {
+        "x": -1249,
+        "z": -596
+    },
+    "residents": [
+        "PDogSmitty",
+        "S4Mu3LL",
+        "Beamz30",
+        "GoobertDoo",
+        "ElonYT",
+        "inoracam3",
+        "JONYTG",
+        "Boergeiam"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "moggs",
+        "Mobius_Bacon",
+        "Boergeiam",
+        "KrackKocaine",
+        "Akeboun",
+        "RealLIMPOPO",
+        "WrestlingWithGod",
+        "Beamz30",
+        "AvaMavis"
+    ],
+    "outlaws": [
+        "Mopugose12",
+        "5set",
+        "_sadpoo",
+        "not_ewhy",
+        "Pancakse",
+        "Cabbstiny"
+    ]
+}

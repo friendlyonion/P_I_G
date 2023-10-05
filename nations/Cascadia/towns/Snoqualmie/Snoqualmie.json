@@ -1,0 +1,95 @@
+{
+    "outlaws": [
+        "BonArc",
+        "fire_344",
+        "Mopugose12",
+        "darthpeti",
+        "JitBlippin"
+    ],
+    "spawn": {
+        "x": -22548.99926980585,
+        "y": 112,
+        "z": -9047.280882008507
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "ffb6c1",
+        "town": "Snoqualmie",
+        "mayor": "N3G4T1V_2",
+        "founder": "N3G4T1V_2",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 20,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 7
+    },
+    "trusted": [
+        "Milgorn123",
+        "JustDriveTrucks"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1685152377814,
+        "registered": 1685150516427
+    },
+    "residents": [
+        "N3G4T1V_2"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": true,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1410,
+        "z": -566
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "strings": {
+        "town": "Caricadia",
+        "board": "Da Basedest Town",
+        "mayor": "ApeChops",
+        "founder": "ApeChops",
+        "mapColorHexCode": "00008b"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1688757719767,
+        "joinedNationAt": 1688757741102
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 40,
+        "maxTownBlocks": 112,
+        "numResidents": 4,
+        "balance": 22.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -24520.30367162429,
+        "y": 102.0,
+        "z": -11097.599236298487
+    },
+    "home": {
+        "x": -1533,
+        "z": -694
+    },
+    "residents": [
+        "ApeChops",
+        "RuffWoof",
+        "ErPimen10",
+        "Wallfam5Master"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [
+            "RuffWoof"
+        ],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "raikonenn"
+    ]
+}

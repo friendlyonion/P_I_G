@@ -1,0 +1,130 @@
+{
+    "strings": {
+        "town": "Fjord",
+        "board": "Show your power by appearing powerless.",
+        "mayor": "DaPigThatBig",
+        "founder": "DaPigThatBig",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "British_Columbia"
+    },
+    "timestamps": {
+        "registered": 1686018672668,
+        "joinedNationAt": 1689596522743
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": true,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 277,
+        "maxTownBlocks": 226,
+        "numResidents": 27,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -24580.918640325097,
+        "y": 75.0,
+        "z": -10498.915150181847
+    },
+    "home": {
+        "x": -1537,
+        "z": -657
+    },
+    "residents": [
+        "DaPigThatBig",
+        "GodSpeedRunner",
+        "Fuze169",
+        "Grreatest",
+        "AskewAce6577671",
+        "ninjaboi601",
+        "SaffronSmile355",
+        "Tallyboy98",
+        "AydanAnima",
+        "Ma1w4re",
+        "ABeamNGaming",
+        "Foresight2021",
+        "Lunchboxriceball",
+        "ImGoing2HeLL",
+        "Regeno",
+        "Chumamek",
+        "blacknightowl",
+        "SanyiHUN",
+        "ShadowWarrior8",
+        "BeLikeBudd",
+        "ImpyNoni1029",
+        "DonBade",
+        "wcamc",
+        "VonFatalis",
+        "ButterAndToast_",
+        "parity20",
+        "BurgundyToad"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "Fuze169",
+            "ninjaboi601"
+        ],
+        "Recruiter": [
+            "GodSpeedRunner",
+            "Fuze169",
+            "ninjaboi601"
+        ],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "GodSpeedRunner",
+        "illinformed",
+        "Bachinuni",
+        "Mole_",
+        "ViolentVampire"
+    ],
+    "outlaws": [
+        "Malso_",
+        "_sadpoo",
+        "Cosmic_Space_158",
+        "nixps"
+    ]
+}

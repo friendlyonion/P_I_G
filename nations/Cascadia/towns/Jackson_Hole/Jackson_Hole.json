@@ -1,0 +1,94 @@
+{
+    "outlaws": [
+        "fire_344",
+        "Cosmic_Space_158"
+    ],
+    "spawn": {
+        "x": -21063.95506893213,
+        "y": 97,
+        "z": -8075.498048411174
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [
+            "realacehy",
+            "TaxingHorizon31"
+        ],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "00008b",
+        "town": "Jackson_Hole",
+        "mayor": "GuyWithACat",
+        "founder": "GuyWithACat",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 3,
+        "balance": 0,
+        "maxTownBlocks": 104,
+        "numTownBlocks": 68
+    },
+    "trusted": [],
+    "timestamps": {
+        "joinedNationAt": 1673844061054,
+        "registered": 1673843483062
+    },
+    "residents": [
+        "GuyWithACat",
+        "realacehy",
+        "TaxingHorizon31"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1317,
+        "z": -505
+    }
+}

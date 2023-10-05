@@ -1,0 +1,100 @@
+{
+    "strings": {
+        "town": "Pacifica",
+        "board": "Join our discord! UegASdGZ",
+        "mayor": "Fr0z3nW1nt3r",
+        "founder": "DaPigThatBig",
+        "mapColorHexCode": "a9a9a9"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1665320068532,
+        "joinedNationAt": 1690091913916
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 474,
+        "maxTownBlocks": 120,
+        "numResidents": 5,
+        "balance": 41.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23175.69042444812,
+        "y": 63.9375,
+        "z": -8116.420642275481
+    },
+    "home": {
+        "x": -1449,
+        "z": -508
+    },
+    "residents": [
+        "Fr0z3nW1nt3r",
+        "EweesGaming",
+        "MrPossum2028",
+        "CYC10N3_",
+        "Tufo_gaming"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "EweesGaming"
+        ],
+        "Recruiter": [
+            "EweesGaming",
+            "Tufo_gaming"
+        ],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "OmeiBey",
+        "Judebricks",
+        "aMopu",
+        "kosticc"
+    ]
+}

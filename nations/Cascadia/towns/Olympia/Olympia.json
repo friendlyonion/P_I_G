@@ -1,0 +1,106 @@
+{
+    "strings": {
+        "town": "Olympia",
+        "board": "The Evergreen City",
+        "mayor": "SayerQT",
+        "founder": "SayerQT",
+        "mapColorHexCode": "e9967a"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1653102393812,
+        "joinedNationAt": 1657744409512
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": true,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 383,
+        "maxTownBlocks": 96,
+        "numResidents": 2,
+        "balance": 364.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22908.645534580806,
+        "y": 67.0,
+        "z": -8845.335058128025
+    },
+    "home": {
+        "x": -1432,
+        "z": -553
+    },
+    "residents": [
+        "SayerQT",
+        "gamecoder126"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Bachinuni",
+        "EstiQT",
+        "WrestlingWithGod",
+        "Blu_Zebra",
+        "ViolentVampire",
+        "AghastBlock",
+        "Ravioli983",
+        "Milgorn123",
+        "Falcoeur"
+    ],
+    "outlaws": [
+        "RAWRyoutube",
+        "DEMON_Lodos",
+        "illinformed",
+        "FierceDrago_",
+        "JitBlippin",
+        "aMopu",
+        "Moxies_hoe",
+        "Superior_Days93"
+    ]
+}

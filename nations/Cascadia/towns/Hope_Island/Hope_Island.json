@@ -1,0 +1,97 @@
+{
+    "strings": {
+        "town": "Hope_Island",
+        "board": "Fuck Oregon",
+        "mayor": "Covenhel_01",
+        "founder": "Covenhel_01",
+        "mapColorHexCode": "000000"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1662344088987,
+        "joinedNationAt": 1662344635855
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 141,
+        "maxTownBlocks": 104,
+        "numResidents": 3,
+        "balance": 764.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": true,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23773.69999998808,
+        "y": 64.0,
+        "z": -9673.38913149202
+    },
+    "home": {
+        "x": -1486,
+        "z": -605
+    },
+    "residents": [
+        "Covenhel_01",
+        "WabiSabi1219",
+        "TheGamingJohn"
+    ],
+    "ranks": {
+        "Councillor": [
+            "Covenhel_01"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "Esteban140",
+        "DaCorgoKing",
+        "WabiSabi1219",
+        "Blu_Zebra",
+        "Covenhel_01",
+        "TheGamingJohn"
+    ],
+    "outlaws": []
+}

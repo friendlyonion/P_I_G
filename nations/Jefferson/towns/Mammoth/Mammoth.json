@@ -1,0 +1,89 @@
+{
+    "strings": {
+        "town": "Mammoth",
+        "board": "Welcome to Carson City",
+        "mayor": "ScotttishRum",
+        "founder": "Zdoinx",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1681963484923,
+        "joinedNationAt": 1689997613294
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 35,
+        "maxTownBlocks": 88,
+        "numResidents": 1,
+        "balance": 5.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22317.77367314801,
+        "y": 136.0,
+        "z": -7206.784790060933
+    },
+    "home": {
+        "x": -1395,
+        "z": -451
+    },
+    "residents": [
+        "ScotttishRum"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "42Forest",
+        "VannyVanMan"
+    ],
+    "outlaws": []
+}

@@ -1,0 +1,88 @@
+{
+    "strings": {
+        "town": "Tower_Town",
+        "board": "/town set board [msg]",
+        "mayor": "RoosterSkyMC",
+        "founder": "RoosterSkyMC",
+        "mapColorHexCode": "9400d3"
+    },
+    "affiliation": {
+        "nation": "Rocky_Mountains"
+    },
+    "timestamps": {
+        "registered": 1691730773557,
+        "joinedNationAt": 1691731066989
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 3,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -20280.97425480016,
+        "y": 87.0,
+        "z": -8677.717830306607
+    },
+    "home": {
+        "x": -1268,
+        "z": -543
+    },
+    "residents": [
+        "RoosterSkyMC"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "KrackKocaine"
+    ],
+    "outlaws": []
+}

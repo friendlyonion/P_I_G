@@ -1,0 +1,104 @@
+{
+    "strings": {
+        "town": "Bradley",
+        "board": "",
+        "mayor": "umburn",
+        "founder": "HWGherewego",
+        "mapColorHexCode": "800080"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1677585808216,
+        "joinedNationAt": 1686688001727
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": true,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 64,
+        "maxTownBlocks": 92,
+        "numResidents": 4,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22567.97307391408,
+        "y": 69.9375,
+        "z": -6821.376765977216
+    },
+    "home": {
+        "x": -1411,
+        "z": -427
+    },
+    "residents": [
+        "HWGherewego",
+        "TheCheeto_bot",
+        "umburn",
+        "Falserose"
+    ],
+    "ranks": {
+        "Councillor": [
+            "HWGherewego"
+        ],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "NotMakarov",
+        "SkittlesFairy",
+        "HWGherewego",
+        "42Forest",
+        "x________"
+    ],
+    "outlaws": [
+        "Keremiko10",
+        "keeita",
+        "zuives",
+        "KratosFlames",
+        "DrShmeegle",
+        "lebreadjahames"
+    ]
+}

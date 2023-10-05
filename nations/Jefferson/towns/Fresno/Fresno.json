@@ -1,0 +1,162 @@
+{
+    "strings": {
+        "town": "Fresno",
+        "board": "Keep Fresno Beautiful!",
+        "mayor": "The_Forest",
+        "founder": "x________",
+        "mapColorHexCode": "8b0000"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1652660428073,
+        "joinedNationAt": 1674364136728
+    },
+    "status": {
+        "isPublic": false,
+        "isOpen": true,
+        "isNeutral": true,
+        "isCapital": true,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 348,
+        "maxTownBlocks": 372,
+        "numResidents": 39,
+        "balance": 0.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22395.715312881606,
+        "y": 131.0,
+        "z": -6902.426982818698
+    },
+    "home": {
+        "x": -1400,
+        "z": -432
+    },
+    "residents": [
+        "dogwitglock",
+        "Mothea",
+        "The_Forest",
+        "07carter",
+        "Bestfriends0174",
+        "chamberdog123",
+        "LordOFireBall",
+        "NA7EDOGG55",
+        "Construc",
+        "JamesPI1506",
+        "SlickJonny",
+        "G4M3R0011",
+        "pearice",
+        "EpicGamerCade",
+        "TKDninjaboy",
+        "hellkiller17493",
+        "ItzLyXzz",
+        "Bremuss",
+        "RobbieThePrince",
+        "LilGGmars",
+        "EskimoMedisinMan",
+        "Hoagienator",
+        "duckiemcgee",
+        "swattehito",
+        "GangSlider",
+        "Scoutishtax",
+        "wolfkiemonster",
+        "alexioslays",
+        "Lyssa_00",
+        "LebronjamesADHD",
+        "CommanderRayy",
+        "DanLoore",
+        "Tikiman123",
+        "Leafi011",
+        "Power3o",
+        "JessScreams",
+        "x________",
+        "Rxd",
+        "butter92015"
+    ],
+    "ranks": {
+        "Councillor": [
+            "07carter",
+            "Bestfriends0174",
+            "x________"
+        ],
+        "Builder": [
+            "dogwitglock"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [
+        "SkittlesFairy",
+        "x________"
+    ],
+    "outlaws": [
+        "sunorreiP",
+        "dempy_",
+        "fingerdog",
+        "PolkadotBlueBear",
+        "Farfal_",
+        "kasana2009",
+        "BattingSine396",
+        "Aggamerr",
+        "mizkami",
+        "A1KK",
+        "Raphonline24",
+        "_saff_",
+        "Keremiko10",
+        "zuives",
+        "hapycb",
+        "Sweapex",
+        "keeita",
+        "MizolyRyo",
+        "Tavitsu",
+        "sugar_79",
+        "nixps",
+        "Im_Not_Uri",
+        "ObiWannaBrick31",
+        "YNotHeLegend",
+        "21eea",
+        "Alemakko",
+        "phantomic_DUBZ",
+        "Superior_Days93"
+    ]
+}

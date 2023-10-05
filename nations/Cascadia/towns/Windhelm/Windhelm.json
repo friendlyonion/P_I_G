@@ -1,0 +1,91 @@
+{
+    "strings": {
+        "town": "Windhelm",
+        "board": "/town set board [msg]",
+        "mayor": "Rodekeel",
+        "founder": "Rodekeel",
+        "mapColorHexCode": "9400d3"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "timestamps": {
+        "registered": 1689608309642,
+        "joinedNationAt": 1689618629839
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": true,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 17,
+        "maxTownBlocks": 128,
+        "numResidents": 6,
+        "balance": 108.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -23175.53791838027,
+        "y": 88.0,
+        "z": -9402.007520052153
+    },
+    "home": {
+        "x": -1449,
+        "z": -588
+    },
+    "residents": [
+        "Rodekeel",
+        "deeldofart1",
+        "Rross1",
+        "InBloom7",
+        "PatrickLosan",
+        "Crisjaam"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": []
+}

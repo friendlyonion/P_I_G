@@ -1,0 +1,88 @@
+{
+    "strings": {
+        "town": "Alamut",
+        "board": "[hello there]",
+        "mayor": "gh0st_tr0op3r",
+        "founder": "gh0st_tr0op3r",
+        "mapColorHexCode": "808000"
+    },
+    "affiliation": {
+        "nation": "Laurentia"
+    },
+    "timestamps": {
+        "registered": 1686416409940,
+        "joinedNationAt": 1690241772194
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": false,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 18,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 5.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -12808.66587223113,
+        "y": 96.0,
+        "z": -11287.047717371803
+    },
+    "home": {
+        "x": -801,
+        "z": -706
+    },
+    "residents": [
+        "gh0st_tr0op3r"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "XDemonXBlockX"
+    ]
+}

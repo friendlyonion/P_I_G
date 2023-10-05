@@ -1,0 +1,92 @@
+{
+    "strings": {
+        "town": "Passage_Bay",
+        "board": "/town set board [msg]",
+        "mayor": "i1dan",
+        "founder": "Yapannn",
+        "mapColorHexCode": "00ffff"
+    },
+    "affiliation": {
+        "nation": "Jefferson"
+    },
+    "timestamps": {
+        "registered": 1679196551742,
+        "joinedNationAt": 1690150187769
+    },
+    "status": {
+        "isPublic": true,
+        "isOpen": false,
+        "isNeutral": false,
+        "isCapital": false,
+        "isOverClaimed": true,
+        "isRuined": false
+    },
+    "stats": {
+        "numTownBlocks": 303,
+        "maxTownBlocks": 68,
+        "numResidents": 1,
+        "balance": 77.0
+    },
+    "perms": {
+        "rnaoPerms": {
+            "buildPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "destroyPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "switchPerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            },
+            "itemUsePerms": {
+                "resident": false,
+                "nation": false,
+                "ally": false,
+                "outsider": false
+            }
+        },
+        "flagPerms": {
+            "pvp": false,
+            "explosion": false,
+            "fire": false,
+            "mobs": false
+        }
+    },
+    "spawn": {
+        "x": -22904.169610893776,
+        "y": 75.0,
+        "z": -7327.985101108417
+    },
+    "home": {
+        "x": -1432,
+        "z": -458
+    },
+    "residents": [
+        "i1dan"
+    ],
+    "ranks": {
+        "Councillor": [],
+        "Builder": [
+            "i1dan"
+        ],
+        "Recruiter": [],
+        "Police": [],
+        "Tax-exempt": [],
+        "Treasurer": []
+    },
+    "trusted": [],
+    "outlaws": [
+        "OnlyPico",
+        "RuffWoof",
+        "Ovoud"
+    ]
+}

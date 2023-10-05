@@ -1,0 +1,93 @@
+{
+    "outlaws": [],
+    "spawn": {
+        "x": -22459.84186880395,
+        "y": 83,
+        "z": -8484.494510234259
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [
+            "mhw23",
+            "Judebricks"
+        ],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "e0ffff",
+        "town": "Fossil",
+        "mayor": "Judebricks",
+        "founder": "mhw23",
+        "board": "City of Fossil"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 2,
+        "balance": 1,
+        "maxTownBlocks": 96,
+        "numTownBlocks": 40
+    },
+    "trusted": [
+        "mhw23",
+        "Bon_Kranch"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1682733669384,
+        "registered": 1663380739544
+    },
+    "residents": [
+        "mhw23",
+        "Judebricks"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": false
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": false,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": true,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1404,
+        "z": -531
+    }
+}

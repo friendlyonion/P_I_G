@@ -1,0 +1,93 @@
+{
+    "outlaws": [
+        "Moxies_hoe"
+    ],
+    "spawn": {
+        "x": -22437.482114970964,
+        "y": 87,
+        "z": -9482.081356572135
+    },
+    "ranks": {
+        "Tax-exempt": [],
+        "Treasurer": [],
+        "Builder": [],
+        "Councillor": [],
+        "Police": [],
+        "Recruiter": []
+    },
+    "strings": {
+        "mapColorHexCode": "c0c0c0",
+        "town": "Bread_INC",
+        "mayor": "Charizard543210",
+        "founder": "Bachinuni",
+        "board": "/town set board [msg]"
+    },
+    "affiliation": {
+        "nation": "Cascadia"
+    },
+    "stats": {
+        "numResidents": 1,
+        "balance": 0,
+        "maxTownBlocks": 88,
+        "numTownBlocks": 58
+    },
+    "trusted": [
+        "Bachinuni",
+        "ViolentVampire",
+        "Mole_",
+        "illinformed"
+    ],
+    "timestamps": {
+        "joinedNationAt": 1683307213760,
+        "registered": 1664234094924
+    },
+    "residents": [
+        "Charizard543210"
+    ],
+    "perms": {
+        "rnaoPerms": {
+            "destroyPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            },
+            "itemUsePerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            },
+            "buildPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            },
+            "switchPerms": {
+                "nation": false,
+                "ally": false,
+                "outsider": false,
+                "resident": true
+            }
+        },
+        "flagPerms": {
+            "mobs": false,
+            "explosion": false,
+            "fire": true,
+            "pvp": false
+        }
+    },
+    "status": {
+        "isNeutral": false,
+        "isCapital": false,
+        "isOpen": false,
+        "isRuined": false,
+        "isPublic": true,
+        "isOverClaimed": false
+    },
+    "home": {
+        "x": -1403,
+        "z": -593
+    }
+}
