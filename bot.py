@@ -598,6 +598,7 @@ if __name__ == '__main__':
                     return False, loaded_data2, loaded_data3, ffn
                 else:
                     return True, loaded_data2, loaded_data3, ffn
+    #Build an embed for gdp to post in a channel
     async def buildEmbedGdp(gdp, nation, value):
         embed=discord.Embed(title=value+" GDP", description='GDG of '+value.lower())
         embed.set_author(name="P.I.G By DaPigThatBig", icon_url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
@@ -607,6 +608,7 @@ if __name__ == '__main__':
         embed.set_footer(text="Powered by DaPigThatBig")
         return embed
 
+    #Build an embed for daily report of GDP to post in a channel
     async def buildEmbedDailyReportGDP(a,b,c,d,e):
         embed=discord.Embed(title='GDG Daily Report', description='Total amount of liquid gold in a nation')
         embed.set_author(name="P.I.G By DaPigThatBig", icon_url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
@@ -631,7 +633,7 @@ if __name__ == '__main__':
         embed.set_footer(text="Powered by DaPigThatBig")
         return embed
 
-
+    #Makes an embed if a player is too close to the nation
     async def buildEmbed(closesttown, x, z, name, maplink, knownHunter, nation):
         embed=discord.Embed(title="Player Spotted", description=name)
         embed.set_author(name="P.I.G UAV By DaPigThatBig", icon_url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
@@ -814,4 +816,4 @@ if __name__ == '__main__':
 
 
 
-    bot.run('MTAzODk4NDI0ODEyNTgyNTA5NA.GCNFBs.l4nrkuILHmMLtvrfz6_eM0Z5GgWAoD2N0FtLq4')
+    bot.run('')
