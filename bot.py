@@ -43,16 +43,17 @@ if __name__ == '__main__':
     async def on_ready():
         #PUAV.start()
         ftchecker.start()
-        #onlinePlayerChecker.start()
+        onlinePlayerChecker.start()
         #checkChanges.start()
         #calcGDG.start()
-    
+        
+    #Welcome to the server message generator
     @bot.event
     async def on_member_join(member):
         if member.guild.id == 1111152465367289988:
             channel = bot.get_channel(1115803316060950631)
             await channel.send(f'Welcome {member.name} to the server! Please send your username and town name in https://discord.com/channels/1111152465367289988/1130261392465862676. Then read https://discord.com/channels/1111152465367289988/1132430977810042900 .')
-
+    #list of hunters
     hunters = ['417squezpvp', 'god0', 'slyprince', 'OmeiBey', '_thepotatoman_', 'Knifery', 'ozzyniner', 'karrw', 'Mirkovic64', 'By____________Un', 'Mirkovic64', 'Crowishere', 'daedalus','DEMON_lodos', 'Emreyeten','BobkaKZ', 'Erwxn1337', 'Batu8747', 'WestoverWill12','TheBlazeMan69', 'EgirlSeethan','Coolman59999','Frede','kasana1919810','Jayden7566','Chengwen07','Gazoobas','RRYCER8746','kasana2007', 'DubsrVSF','Alzxdnr','kasana2003', 'AmethystPluto', 'DRX_Kingen', 'rainbowguy77','ManofWarfare']
     found_players = []
     pcounter = 0
@@ -106,12 +107,11 @@ if __name__ == '__main__':
                                     #check if known hunter
                                     knownHunter = knownHunters(b['name'])
                                     channel = bot.get_channel(1101345276691746866)
-                                    closesttown = 'broken temp'
                                     #generate map link to where player is
                                     maplink = 'https://earthmc.net/map/aurora/?worldname=earth&mapname=flat&zoom=5&x='+str(b['x'])+'&y=64&z='+str(b['z'])
                                     #build embed and send it
-                                    print(closesttown, b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
-                                    embed = await buildEmbed(closesttown, b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
+                                    print(b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
+                                    embed = await buildEmbed(b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
                                     await channel.send(embed=embed)
                                     #add player to found list
                                     found_players.append(b['name'])
@@ -137,6 +137,7 @@ if __name__ == '__main__':
         except:
             print('Fail')
         print(pcounter)
+    #checks if any towns will fall soon
     @tasks.loop(minutes=7200)
     async def ftchecker():
         try:
@@ -160,6 +161,7 @@ if __name__ == '__main__':
                 time.sleep(1)
         except:
             pass
+    #checks who is online and saves it to the playerlogindata folder
     @tasks.loop(minutes=1)
     async def onlinePlayerChecker():
         try:
@@ -184,6 +186,7 @@ if __name__ == '__main__':
 
         except:
             pass
+    #
     @tasks.loop(minutes=5000)
     async def townSpawnUpdater():
         try:
@@ -206,6 +209,7 @@ if __name__ == '__main__':
         except:
             pass
 
+    #generates an embed with a users times that they are most online.
     @bot.slash_command(name="conline") 
     async def conline(ctx, arg):
         await ctx.respond('Generating...')
@@ -247,7 +251,7 @@ if __name__ == '__main__':
             await ctx.send(embed=embed)
         except:
             pass
-    
+    #calculates each nations gdg
     @tasks.loop(minutes=1440)
     async def calcGDG():
         print('Starting daily report...')
@@ -307,276 +311,7 @@ if __name__ == '__main__':
                 time.sleep(0.5)
         except:
             pass
-    @tasks.loop(minutes=60)
-    async def checkChanges():
-        print('Running town changed check...')
-        #Cascadia
-        nation = 'Cascadia'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        for x in data['towns']:
-                data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
-                data2 = data2.json()
-                mypath = 'nations/'+ nation + '/towns/'+x
-                if not os.path.isdir(mypath):
-                    os.makedirs(mypath)
-                if not os.path.isfile(mypath + '/'+ x + '.json'):
-                    print((mypath + '/'+ x + '.json'))
-                    createProfileTown(nation, x)
-                data2 = json.dumps(data2)
-                ffn = mypath + '/'+ x + '.json'
-                with open(ffn, 'r') as f:
-                    loaded_data3 = json.load(f)
-                    f.close()
-                
-                loaded_data2 = json.loads(data2)
-                if diff(loaded_data2, loaded_data3) == {}:
-                    pass
-                else:
 
-                    channel = bot.get_channel(1125963338543796305)
-                    difference = diff(loaded_data2, loaded_data3)
-                    results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-                    print(results)
-                    if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                        print('no notable changes')
-                    else:
-                        embed = await buildEmbedFileNation(results, x)
-                        await channel.send(embed=embed)
-                        ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                        with open(ffn, 'w', encoding='utf-8') as l:
-                            json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-                time.sleep(1)
-        #British Columbia
-        nation = 'British_Columbia'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        for x in data['towns']:
-                data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
-                data2 = data2.json()
-                mypath = 'nations/'+ nation + '/towns/'+x
-                if not os.path.isdir(mypath):
-                    os.makedirs(mypath)
-                if not os.path.isfile(mypath + '/'+ x + '.json'):
-                    print((mypath + '/'+ x + '.json'))
-                    createProfileTown(nation, x)
-                data2 = json.dumps(data2)
-                ffn = mypath + '/'+ x + '.json'
-                with open(ffn, 'r') as f:
-                    loaded_data3 = json.load(f)
-                    f.close()
-                
-                loaded_data2 = json.loads(data2)
-                if diff(loaded_data2, loaded_data3) == {}:
-                    pass
-                else:
-
-                    channel = bot.get_channel(1132718491573702727)
-                    difference = diff(loaded_data2, loaded_data3)
-                    results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-                    print(results)
-                    if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                        print('no notable changes')
-                    else:
-                        embed = await buildEmbedFileNation(results, x)
-                        await channel.send(embed=embed)
-                        ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                        with open(ffn, 'w', encoding='utf-8') as l:
-                            json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-                time.sleep(1)
-
-        #Rocky Mountains
-        nation = 'Rocky_mountains'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        for x in data['towns']:
-                data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
-                data2 = data2.json()
-                mypath = 'nations/'+ nation + '/towns/'+x
-                if not os.path.isdir(mypath):
-                    os.makedirs(mypath)
-                if not os.path.isfile(mypath + '/'+ x + '.json'):
-                    print((mypath + '/'+ x + '.json'))
-                    createProfileTown(nation, x)
-                data2 = json.dumps(data2)
-                ffn = mypath + '/'+ x + '.json'
-                with open(ffn, 'r') as f:
-                    loaded_data3 = json.load(f)
-                    f.close()
-                
-                loaded_data2 = json.loads(data2)
-                if diff(loaded_data2, loaded_data3) == {}:
-                    pass
-                else:
-
-                    channel = bot.get_channel(1132718325684785162)
-                    difference = diff(loaded_data2, loaded_data3)
-                    results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-                    print(results)
-                    if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                        print('no notable changes')
-                    else:
-                        embed = await buildEmbedFileNation(results, x)
-                        await channel.send(embed=embed)
-                        ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                        with open(ffn, 'w', encoding='utf-8') as l:
-                            json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-                time.sleep(1)
-        #Laurentia
-        nation = 'Laurentia'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        for x in data['towns']:
-                data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
-                data2 = data2.json()
-                mypath = 'nations/'+ nation + '/towns/'+x
-                if not os.path.isdir(mypath):
-                    os.makedirs(mypath)
-                if not os.path.isfile(mypath + '/'+ x + '.json'):
-                    print((mypath + '/'+ x + '.json'))
-                    createProfileTown(nation, x)
-                data2 = json.dumps(data2)
-                ffn = mypath + '/'+ x + '.json'
-                with open(ffn, 'r') as f:
-                    loaded_data3 = json.load(f)
-                    f.close()
-                
-                loaded_data2 = json.loads(data2)
-                if diff(loaded_data2, loaded_data3) == {}:
-                    pass
-                else:
-
-                    channel = bot.get_channel(1132718779995013232)
-                    difference = diff(loaded_data2, loaded_data3)
-                    results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-                    print(results)
-                    if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                        print('no notable changes')
-                    else:
-                        embed = await buildEmbedFileNation(results, x)
-                        await channel.send(embed=embed)
-                        ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                        with open(ffn, 'w', encoding='utf-8') as l:
-                            json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-                time.sleep(1)
-        #Yukon
-        nation = 'Yukon'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        for x in data['towns']:
-                data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
-                data2 = data2.json()
-                mypath = 'nations/'+ nation + '/towns/'+x
-                if not os.path.isdir(mypath):
-                    os.makedirs(mypath)
-                if not os.path.isfile(mypath + '/'+ x + '.json'):
-                    print((mypath + '/'+ x + '.json'))
-                    createProfileTown(nation, x)
-                data2 = json.dumps(data2)
-                ffn = mypath + '/'+ x + '.json'
-                with open(ffn, 'r') as f:
-                    loaded_data3 = json.load(f)
-                    f.close()
-                
-                loaded_data2 = json.loads(data2)
-                if diff(loaded_data2, loaded_data3) == {}:
-                    pass
-                else:
-
-                    channel = bot.get_channel(1135631485232218122)
-                    difference = diff(loaded_data2, loaded_data3)
-                    results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-                    print(results)
-                    if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                        print('no notable changes')
-                    else:
-                        embed = await buildEmbedFileNation(results, x)
-                        await channel.send(embed=embed)
-                        ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                        with open(ffn, 'w', encoding='utf-8') as l:
-                            json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-                time.sleep(1)
-        #Jefferson
-        nation = 'Jefferson'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        for x in data['towns']:
-                data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
-                data2 = data2.json()
-                mypath = 'nations/'+ nation + '/towns/'+x
-                if not os.path.isdir(mypath):
-                    os.makedirs(mypath)
-                if not os.path.isfile(mypath + '/'+ x + '.json'):
-                    print((mypath + '/'+ x + '.json'))
-                    createProfileTown(nation, x)
-                data2 = json.dumps(data2)
-                ffn = mypath + '/'+ x + '.json'
-                with open(ffn, 'r') as f:
-                    loaded_data3 = json.load(f)
-                    f.close()
-                
-                loaded_data2 = json.loads(data2)
-                if diff(loaded_data2, loaded_data3) == {}:
-                    pass
-                else:
-
-                    channel = bot.get_channel(1132718574998401075)
-                    difference = diff(loaded_data2, loaded_data3)
-                    results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-                    print(results)
-                    if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                        print('no notable changes')
-                    else:
-                        embed = await buildEmbedFileNation(results, x)
-                        await channel.send(embed=embed)
-                        ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                        with open(ffn, 'w', encoding='utf-8') as l:
-                            json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-                time.sleep(1)
-
-    @tasks.loop(minutes=60)
-    async def checkChangesNation():
-        print('Running town changed check...')
-        #Cascadia
-        nation = 'Cascadia'
-        data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
-        
-        data = data.json()
-        mypath = 'nations/'+ nation+'.json'
-        if not os.path.isdir(mypath):
-            os.makedirs(mypath)
-        if not os.path.isfile(mypath + '/'+ x + '.json'):
-            print((mypath + '/'+ x + '.json'))
-            createProfileTown(nation, x)
-        ffn = mypath + '/'+ nation + '.json'
-        with open(ffn, 'r') as f:
-            loaded_data3 = json.load(f)
-            f.close()
-        
-        loaded_data2 = json.loads(data)
-        if diff(loaded_data2, loaded_data3) == {}:
-            pass
-        else:
-
-            channel = bot.get_channel(1132711280009035859)
-            difference = diff(loaded_data2, loaded_data3)
-            results = differenceOrganizer(difference, loaded_data2, loaded_data3)
-            print(results)
-            if results[0] == False and results[1] == False and results[2] == False and results[3] == False and results[4] == False:
-                print('no notable changes')
-            else:
-                embed = await buildEmbedFileNation(results, x)
-                await channel.send(embed=embed)
-                ffn = 'nations/{nation}/towns/{x}/{x}.json'.format(x = x, nation = nation)
-                with open(ffn, 'w', encoding='utf-8') as l:
-                    json.dump(loaded_data2, l, ensure_ascii=False, indent=4)
-        time.sleep(1)
     def nationTownScanner(nation, x):
                 data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
                 data2 = data2.json()
@@ -634,12 +369,11 @@ if __name__ == '__main__':
         return embed
 
     #Makes an embed if a player is too close to the nation
-    async def buildEmbed(closesttown, x, z, name, maplink, knownHunter, nation):
+    async def buildEmbed(x, z, name, maplink, knownHunter, nation):
         embed=discord.Embed(title="Player Spotted", description=name)
         embed.set_author(name="P.I.G UAV By DaPigThatBig", icon_url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
         embed.set_thumbnail(url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
         embed.add_field(name="Known Hunter?", value=knownHunter, inline=True)
-        embed.add_field(name="Nearest Town", value=closesttown, inline=True)
         embed.add_field(name="Coordinates", value=str(x) + ' '+ str(z), inline=True)
         embed.add_field(name="Nation", value=nation, inline=True)
         embed.add_field(name="Map Link", value=maplink, inline=True)
