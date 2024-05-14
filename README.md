@@ -9,7 +9,7 @@ Player Tracking Features:
 - 
 Nation Tracking Features:
 - Count a nations total liquid gold (the amount of gold in all of their towns, players, and nation banks)
-- 
+- It can also track if a town in a nation will fall due to 42 days of inactivity.
 Commands list:
 
 Prerequisites:
