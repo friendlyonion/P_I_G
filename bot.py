@@ -77,11 +77,11 @@ if __name__ == '__main__':
                                 print(b['x'], b['z'], data2['affiliation']['nation'], data2['strings']['username'])
                                 #print('does not equal no nation')
                                 #if they are not in Cascadia, Alberta, WAshington, or Oregon
-                                #if b['nation']!='Cascadia' and b['nation']!='Alberta' and b['nation']!='Washington' and b['nation']!='Oregon' and b['nation']!='California' and b['nation']!='Colorado' and b['nation']!='Yukon' and b['nation']!='Russian_Alaska' and b['nation']!='Alaska' and b['nation']!='Far_North'and b['nation']!='Arizona' and b['nation']!='Saskatchewan':
-                                    #if they have not already been found in the past 9 mins
-                                if b['name'] not in found_players:
-                                    print('Not on found players')
-                                    closestcoord = 10000
+                                if b['nation']!='Cascadia' and b['nation']!='Alberta' and b['nation']!='Washington' and b['nation']!='Oregon' and b['nation']!='California' and b['nation']!='Colorado' and b['nation']!='Yukon' and b['nation']!='Russian_Alaska' and b['nation']!='Alaska' and b['nation']!='Far_North'and b['nation']!='Arizona' and b['nation']!='Saskatchewan':
+                                #if they have not already been found in the past 9 mins
+                                    if b['name'] not in found_players:
+                                        print('Not on found players')
+                                        closestcoord = 10000
                                     #for filename in os.listdir('townSpawns/'):
                                     #    town = filename
                                     #    with open('townSpawns/'+filename, 'r') as read_obj:
@@ -105,30 +105,17 @@ if __name__ == '__main__':
                                     #                    closestx = b['x']
                                     #print(closesttown)
                                     #check if known hunter
-                                    knownHunter = knownHunters(b['name'])
-                                    channel = bot.get_channel(1101345276691746866)
-                                    #generate map link to where player is
-                                    maplink = 'https://earthmc.net/map/aurora/?worldname=earth&mapname=flat&zoom=5&x='+str(b['x'])+'&y=64&z='+str(b['z'])
-                                    #build embed and send it
-                                    print(b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
-                                    embed = await buildEmbed(b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
-                                    await channel.send(embed=embed)
-                                    #add player to found list
-                                    found_players.append(b['name'])
+                                        knownHunter = knownHunters(b['name'])
+                                        channel = bot.get_channel(1101345276691746866)
+                                        #generate map link to where player is
+                                        maplink = 'https://earthmc.net/map/aurora/?worldname=earth&mapname=flat&zoom=5&x='+str(b['x'])+'&y=64&z='+str(b['z'])
+                                        #build embed and send it
+                                        print(b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
+                                        embed = await buildEmbed(b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
+                                        await channel.send(embed=embed)
+                                        #add player to found list
+                                        found_players.append(b['name'])
     
-                        #else:
-                        #        if b['name'] not in found_players:
-                        #            #check if known hunter
-                        #            knownHunter = knownHunters(b['name'])   
-                        #            channel = bot.get_channel(1101345276691746866)
-                        #            #generate map link to where player is
-                        #            #maplink = 'https://earthmc.net/map/aurora/?worldname=earth&mapname=flat&zoom=5&x='+str(closestx)+'&y=64&z='+str(closestz)
-                        #            maplink = 'WIP'
-                        #            #build embed and send it
-                        #            embed = await buildEmbed(closesttown, b['x'], b['z'], b['name'], maplink, knownHunter, data2['affiliation']['nation'])
-                        #            await channel.send(embed=embed)
-                        #            #add player to found list
-                        #            found_players.append(b['name'])
                     else:
                         pass
             pcounter +=1
