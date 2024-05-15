@@ -6,10 +6,10 @@ Player Tracking Features:
 - Track a players in game login time
 - Track a players location
 - Detect if a player is located near your nation
-- 
+  
 Nation Tracking Features:
 - Count a nations total liquid gold (the amount of gold in all of their towns, players, and nation banks)
-- 
+- It can also track if a town in a nation will fall due to 42 days of inactivity.
 Commands list:
 
 Prerequisites:
