@@ -69,19 +69,20 @@ if __name__ == '__main__':
             #check if player is within range of Cascadia
             await asyncio.sleep(0)
             for b in data:
+                #This is the range of the UAV. It will only continue in the script if the player is within these coordinates.
                     if (-24344<b['x']<-19664) and (-11000<b['z']<-7548):
                         time.sleep(1)
                         data2 = requests.get(('https://api.earthmc.net/v1/aurora/residents/{ign}').format(ign=b['name']))
                         data2 = data2.json()
                         if data2['affiliation']['nation']!= 'No Nation' and data2['affiliation']['nation']!= 'Cascadia' and data2['affiliation']['nation']!='Alberta' and data2['affiliation']['nation']!='Washington' and data2['affiliation']['nation']!='Oregon' and 'nation' in data2['affiliation']:
                                 print(b['x'], b['z'], data2['affiliation']['nation'], data2['strings']['username'])
-                                #print('does not equal no nation')
-                                #if they are not in Cascadia, Alberta, WAshington, or Oregon
+                                #if they are not in Cascadia, Alberta, Washington, or Oregon. This is done to make sure each user is not a citizen of an ally nation or one that is extremely nearby. If this is tunred off notificaitons for many nations nearby even if enimies would flood the notificiations.
                                 if b['nation']!='Cascadia' and b['nation']!='Alberta' and b['nation']!='Washington' and b['nation']!='Oregon' and b['nation']!='California' and b['nation']!='Colorado' and b['nation']!='Yukon' and b['nation']!='Russian_Alaska' and b['nation']!='Alaska' and b['nation']!='Far_North'and b['nation']!='Arizona' and b['nation']!='Saskatchewan':
                                 #if they have not already been found in the past 9 mins
                                     if b['name'] not in found_players:
                                         print('Not on found players')
                                         closestcoord = 10000
+                                        #Finds the town nearest to those coordinates. One issue with this is that if a town is deleted it oculd return an error, will fix in a later update.
                                     #for filename in os.listdir('townSpawns/'):
                                     #    town = filename
                                     #    with open('townSpawns/'+filename, 'r') as read_obj:
@@ -104,7 +105,7 @@ if __name__ == '__main__':
                                     #                    closestz = b['z']
                                     #                    closestx = b['x']
                                     #print(closesttown)
-                                    #check if known hunter
+                                        #check if known hunter. An old featrue that is not used as much anymore as the known hunters change quite often.
                                         knownHunter = knownHunters(b['name'])
                                         channel = bot.get_channel(1101345276691746866)
                                         #generate map link to where player is
@@ -124,7 +125,7 @@ if __name__ == '__main__':
         except:
             print('Fail')
         print(pcounter)
-    #checks if any towns will fall soon
+    #checks if any towns will fall soon. Then it sends the town and ign of mayor into a specific channel. 
     @tasks.loop(minutes=7200)
     async def ftchecker():
         try:
@@ -138,7 +139,6 @@ if __name__ == '__main__':
                 ign = data2['strings']['mayor']
                 print(ign)
                 if findLastOnline(ign) == True:
-                    print('oof1')
                     channel = bot.get_channel(1112446714826207282)
                     await channel.send(ign)
                     await channel.send(town)
@@ -148,7 +148,7 @@ if __name__ == '__main__':
                 time.sleep(1)
         except:
             pass
-    #checks who is online and saves it to the playerlogindata folder
+    #checks who is online and saves it to the playerlogindata folder. This is used for the /conline command which shows how many times a player was pinged online.
     @tasks.loop(minutes=1)
     async def onlinePlayerChecker():
         try:
@@ -173,7 +173,7 @@ if __name__ == '__main__':
 
         except:
             pass
-    #
+    #Updates the town spawn folder with files that contain a towns home block. Depreciated, it was used for nearest town finder of the UAV function.
     @tasks.loop(minutes=5000)
     async def townSpawnUpdater():
         try:
@@ -196,7 +196,7 @@ if __name__ == '__main__':
         except:
             pass
 
-    #generates an embed with a users times that they are most online.
+    #generates an embed with a users times that they are most online. It will display every time they have been pinged online that. Sometime sthe trackers misses a person due to them not being picked up by the API. This is not something I can fix without coding a personal API that feeds off of the EMC map.
     @bot.slash_command(name="conline") 
     async def conline(ctx, arg):
         await ctx.respond('Generating...')
@@ -244,16 +244,8 @@ if __name__ == '__main__':
         print('Starting daily report...')
         casc = gdpp('Cascadia')
         await asyncio.sleep(0)
-        vinland = gdpp('Laurentia')
-        await asyncio.sleep(0)
-        bc = gdpp('British_Columbia')
-        await asyncio.sleep(0)
 
-        rmf = gdpp('Rocky_Mountains')
-        await asyncio.sleep(0)
-
-        jefferson = gdpp('Jefferson')
-        embed = await buildEmbedDailyReportGDP(casc, vinland, bc, rmf, jefferson)
+        embed = await buildEmbedDailyReportGDP(casc)
         channel = bot.get_channel(1132700618461556757)
         await channel.send(embed=embed)
 
@@ -299,6 +291,7 @@ if __name__ == '__main__':
         except:
             pass
 
+            #creates a nation profile in the natiosn/towns folder
     def nationTownScanner(nation, x):
                 data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
                 data2 = data2.json()
@@ -336,10 +329,6 @@ if __name__ == '__main__':
         embed.set_author(name="P.I.G By DaPigThatBig", icon_url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
         embed.set_thumbnail(url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
         embed.add_field(name=a[0], value=str(a[1])+'g', inline=True)
-        embed.add_field(name=b[0], value=str(b[1])+'g', inline=True)
-        embed.add_field(name=c[0], value=str(c[1])+'g', inline=True)
-        embed.add_field(name=d[0], value=str(d[1])+'g', inline=True)
-        embed.add_field(name=e[0], value=str(e[1])+'g', inline=True)
         embed.set_footer(text="Powered by DaPigThatBig")
         return embed
     
@@ -367,6 +356,7 @@ if __name__ == '__main__':
         embed.set_footer(text="Powered by DaPigThatBig")
         return embed
 
+    #The embed for the coline command which shows all of the times a player has been pinged online.
     async def buildCounterEmbed(counter, arg):
         embed=discord.Embed(title="Player Data", description=arg)
         embed.set_author(name="P.I.G By DaPigThatBig", icon_url="https://i.pinimg.com/originals/74/99/b2/7499b29c229af9dcad36b64d666d2d5a.png")
@@ -375,6 +365,7 @@ if __name__ == '__main__':
             embed.add_field(name=str(items[0]).strip('[]\'')+ ':00 CST', value=str(items[1]) + ' pings', inline=True)
         embed.set_footer(text="Powered by DaPigThatBig")
         return embed
+
 
     def getData():
         response = requests.get(
@@ -459,6 +450,7 @@ if __name__ == '__main__':
             with open("42check.txt", "a") as b:
                 b.write(ign + '\n')
 
+    #Gets data for profile town.
     def createProfileTown(nation, x):
         data2 = requests.get('https://api.earthmc.net/v1/aurora/towns/'+x)
         data2 = data2.json()
@@ -469,7 +461,7 @@ if __name__ == '__main__':
         with open(mypath+'/'+fn, 'w', encoding='utf-8') as f:
              json.dump(data2, f, ensure_ascii=False, indent=4)
         time.sleep(1)
-    
+    #gets total gdp of a nation. (All liquid gold) 
     def gdpp(nation):
         try:
             data = requests.get('https://api.earthmc.net/v1/aurora/nations/{nation}'.format(nation = nation))
@@ -489,52 +481,6 @@ if __name__ == '__main__':
                 return nation, gdp
         except:
             pass
-
-    def differenceOrganizer(x, ld2, ld3):
-        #get bal
-        if 'stats' in x:
-            if 'balance' in x['stats']:
-                balcalc = int(ld3['stats']['balance']) - int(ld2['stats']['balance'])
-                bal = str(balcalc) + 'g'
-            else:
-                bal = False
-            if 'numTownBlocks' in x['stats']:
-                chunks = residents = int(ld3['stats']['numTownBlocks']) - int(ld2['stats']['numTownBlocks']) 
-            else:
-                chunks = False
-            if 'numResidents' in x['stats']:
-                residents = int(ld3['stats']['numResidents']) - int(ld2['stats']['numResidents']) 
-
-            else:
-                residents = False
-        else:
-            bal = False
-            chunks = False
-            residents = False
-
-        #get mayor
-        if 'strings' in x:
-            if 'mayor' in x['strings']:
-                mayor = x['strings']['mayor']
-            else:
-                mayor = False
-        else:
-            mayor = False
-        #get nation
-        if 'affiliation' in x:
-            if 'nation' in x['affiliation']:
-                nation = x['affiliation']['nation']
-            else:
-                nation = False
-
-        else:
-            nation = False
-        return bal, residents, chunks, nation, mayor
-
-
-
-
-
 
 
     bot.run('')

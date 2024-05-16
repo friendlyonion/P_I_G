@@ -24,7 +24,7 @@ for town in data['towns']:
     data2 = data2.json()
     ign = data2['strings']['mayor']
     if findLastOnline(ign) == True:
-        with open("42check.txt", "r") as k:
+        with open("42check.txt", "a+") as k:
             lines = k.readlines()
             if ign in lines:
                 print('Already notified')
