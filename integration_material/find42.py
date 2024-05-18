@@ -1,6 +1,6 @@
 #have script check for all towns that are in cascadia.
 #once all towns are found then check for mayors last online date.
-#if last online date was more than 30 days ago then send notification.
+#if last online date was more than 30 days ago then send notification..
 
 import requests
 import time
